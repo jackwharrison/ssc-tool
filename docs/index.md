@@ -1,10 +1,10 @@
-### 510 EspoCRM Training 
+### Shelter Severity Classification Tool
 
 
 <!-- markdownlint-disable-next-line no-trailing-punctuation -->
 
-Welcome to the 510 EspoCRM training!
-It covers access to the system, explains how to work with PAM (People Affected Management) and Rental Accommodation templates, describes the 121 platform as a payment solution, contains Customization part for more advanced users and provides recommendations for data protection. 
+Welcome to the Shelter Severity Classification Tool training!
+It covers access to the system, explains how the system works, how to add indicators and data to the system, how to interpret the results, and how to export the data. This training covers how to use the system as both a user and an admin.
 
 If you are using this training module for self-study, you are advised to follow the navigation list starting with the General chapter. The Customization part is optional and is intended for experienced EspoCRM administrators willing to develop their entities further. 
 

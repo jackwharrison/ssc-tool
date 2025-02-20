@@ -12,7 +12,7 @@ If you are using this training module for self-study, you are advised to follow 
 
 ---
 <!-- markdownlint-disable -->
-<div class="grid cards" style="grid-template-columns: 1fr 1fr;" markdown>
+<div class="grid cards" style="grid-template-columns: 1fr;" markdown>
 
 - **[:material-clock-fast: General](./general/index.md)**  
   This section provides an overview of the current Shelter Severity Classification system developed by the Global Shelter Cluster and its connection to this tool.

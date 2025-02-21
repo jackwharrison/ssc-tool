@@ -43,6 +43,6 @@ If you are using this training module for self-study, you are advised to follow 
 ---
 
 Need further assistance? Contact your dedicated EspoCRM Specialist
-or reach out to support@510.global
+or reach out to jharrison@redcross.nl or helenbaas@redcross.nl
 
 ---

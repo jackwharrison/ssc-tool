@@ -1,7 +1,6 @@
 
-site_name: 510 EspoCRM training
-site_url: https://rodekruis.github.io/espocrm-training/
-
+site_name: SSC Tool Guide
+site_url: https://jackwharrison.github.io/ssc-tool/
 extra_css:
   - stylesheets/extra.css
 
@@ -48,34 +47,18 @@ extra:
 
 nav:
     - 'Home': 'index.md'
-    - 'Hosting':
-      - 'Hosting options': 'hosting/page1.md' 
     - 'General': 
       - 'Log in': 'general/page1.md'
-      - 'Change password': 'general/page2.md'
-      - 'Change language': 'general/page3.md'
-      - 'Add users': 'general/page4.md'
-      - 'Roles and permissions': 'general/page5.md'
-    - 'PAM':
-      - 'Persons Affected': 'pam/page1.md'
-      - 'Households': 'pam/page2.md'
-      - 'Programs': 'pam/page3.md'
-      - 'Tasks': 'pam/page4.md'
-      - 'Volunteers': 'pam/page5.md'
-      - 'Data import with Excel': 'pam/page6.md'
-      - 'Registration with Kobo': 'pam/page7.md'
-    - 'Rental Accommodation' :
-      - 'Affected Households': 'rental/page1.md'
-      - 'Accommodations': 'rental/page2.md'
-      - 'Matches': 'rental/page3.md'
-      - 'Cash distributions': 'rental/page4.md'
-      - 'Transfers': 'rental/page5.md'
-      - 'Message Templates': 'rental/page6.md'
-      - 'Messages': 'rental/page7.md'
-      - 'Data import with Excel': 'rental/page8.md'
-      - 'Registration with Kobo': 'rental/page9.md'
-    - '121 Payment platform' :
-      - '121 platform for making payments': 'payment/page1.md'
+    - 'Administrative Divisions':
+      - 'Administrative Regions': 'administrative_regions/page1.md'
+    - 'Indicators and Decisions Trees' :
+      - 'Indicator Bank': 'indicators_and_decision_trees/page1.md'
+      - 'Hazard Indicators': 'indicators_and_decision_trees/page2.md'
+      - 'Decision Trees': 'indicators_and_decision_trees/page3.md'
+    - ' Data (Pillars, Vulnerabilities, Hazards, and Impacts)' :
+      - 'Data': 'data/page1.md'
+    - ' Visualizations' :
+      - 'Visualizations': 'visualizations/page1.md'    
     - 'Customization': 
       - 'How to create a new entity': 'customization/page1.md'
       - 'How to link entities': 'customization/page2.md'
@@ -89,8 +72,5 @@ nav:
       - 'Flowcharts': 'customization/page11.md'
     - 'Advanced Pack':
       - 'Advanced Pack License': 'advanced/page1.md'
-    - 'Data protection': 
-      - 'GDPR compliance': 'protection/page1.md'
-      - 'Version control': 'protection/page3.md'
-      - 'Best practices': 'protection/page4.md'
+
     

@@ -1,8 +1,8 @@
 /* Customized Colors */
 :root {
-  --md-primary-fg-color:        #00214D; /* 510 navy */
-  --md-primary-fg-color--light: #CFBFFF;
-  --md-primary-fg-color--dark:  #361A8C;
+  --md-primary-fg-color:        #5e0f18; /* 510 navy */
+  --md-primary-fg-color--light: #a28c8a;
+  --md-primary-fg-color--dark:  #946266;
 }
 
 /**

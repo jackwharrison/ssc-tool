@@ -49,6 +49,9 @@ nav:
     - 'Home': 'index.md'
     - 'General': 
       - 'Intro to the SSC': 'general/page1.md'
+      - 'Pillar 1 - The Shelter': 'general/page2.md'
+      - 'Pillar 2 - Inside The Shelter': 'general/page3.md'
+      - 'Pillar 3 - Outside The Shelter': 'general/page4.md'
     - 'Administrative Divisions':
       - 'Administrative Regions': 'administrative_regions/page1.md'
     - 'Indicators and Decisions Trees' :

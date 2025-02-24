@@ -16,7 +16,7 @@ The primary output of the SSC is the overall shelter severity indicator, which i
 
 To answer that, we have divided the components of a shelter into three pillars.
 
-### **[Pillar 1 - The Shelter:](./general/page2.md)** 
+### **[Pillar 1 - The Shelter:](.page2.md)** 
 _The structure itself is an enclosed living space that protects from external threats. Defined as the percentage of households living in safe and dignified dwellings (structure that protects them against external threats, health problems, weather and natural hazards)_
 
 **Themes:**
@@ -28,7 +28,7 @@ _The structure itself is an enclosed living space that protects from external th
 - **Accessibility** - Percentage of households living in shelters meeting accessibility standards
 
 
-### **[Pillar 2 - Inside The Shelter:](./general/page3.md)**
+### **[Pillar 2 - Inside The Shelter:](.page3.md)**
 
 _People can live properly within their dwelling and perform their normal domestic functions. Defined as the percentage of households able to properly practice domestic functions_
 
@@ -40,7 +40,7 @@ _People can live properly within their dwelling and perform their normal domesti
 - **Sleeping** – Percentage of households having sufficient and appropriate items for safe, healthy, and private sleeping
 - **Cleanliness (Hygiene)** – Percentage of households having sufficient and appropriate items to maintain the shelter clean
 
-### **[Pillar 3 - Outside The Shelter:](./general/page4.md)** 
+### **[Pillar 3 - Outside The Shelter:](.page4.md)** 
 
 _People have access to common services and community infrastructure for their dwelling. Defined as percentage of households with access to appropriate common services and infrastructure_
 

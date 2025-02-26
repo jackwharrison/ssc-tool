@@ -1,35 +1,41 @@
-# Administrative Regions:
+# Administrative Regions  
 
-The SSC tool calculates scores for each administrative region, dependent on the availability of data. At present, the tool supports four levels of administrative regions, from ADM0 to ADM3. 
+The SSC tool calculates scores for each administrative region, depending on data availability. It currently supports four levels of administrative regions, ranging from ADM0 to ADM3.  
 
-ADM0 is always the country, but the names of the lower administrative regions will vary depending on the country. Using the example of the Philippines, the data would be structured as such:
+- **ADM0** always represents the country.  
+- **ADM1, ADM2, and ADM3** represent progressively smaller administrative divisions, though their specific names vary by country.  
 
--ADM0 (Country)
+## Administrative Regions in the Tool  
 
---ADM1 (Region)
-  
----ADM2 (Province)
-    
-----ADM3 (Municipality)
+Each administrative level is represented by a separate entity within the tool. While ADM1, ADM2, and ADM3 share a similar structure, ADM0 (the country level) is structured differently. The differences at ADM0 will be explained in detail later.  
 
-## Administrative regions within the tool
+## ADM1 to ADM3  
 
-Each level of administrative region is represented by a different entity within the tool. ADM1, ADM2 and ADM3 follow a very similar structure, whilst ADM0 (Country level) is structured slightly differently, which will be explained later.
+ADM1 to ADM3 follow a similar structure, with only minor differences. This section will primarily focus on ADM2 as a reference point for understanding these administrative levels.  
 
-## ADM1 to ADM3
-
-These are all very similar, bar a few minor differences, for this page, we will look through the ADM3 entity.
 
 ### Overview:
 
-![image](https://github.com/user-attachments/assets/3241b3ee-9b25-4677-87fc-24f7502b5428)
+![image](https://github.com/user-attachments/assets/57f58a64-2acf-4b29-81f8-eb3d3e86311a)
 
-- **ADM3:** the name of the administrative region. For lower admin levels it is recommended to combine the name of the region with the PCODE, as there may be multiple regions with the same name.
-- **ADM2:** the name of the ADM2 region this region falls into
-- **ADM1:** the name of the ADM1 region this region falls into
-- **Country:** country of this region
-- **PCODE:** Unique identifier associated with each administrative region to ensure correct matching of regions
-- **Population:** Population within this administrative region
-- **Adjusted Severity Score:** Overall shelter vulnerability score calculation via the decision tree method adjusted for baseline vulnerability
-- **Shelter Vulnerability Score:** Overall shelter vulnerability score calculation via the decision tree method
-- **Refresh:** Click this button to refresh the calculations. (Press small blue pencil to the right to unlock it). It will reset to unclicked when the calculations are complete. Make sure to refresh the page to see any changes.
+- **Name:** The name of this administrative region. 
+- **ADM1:** The name of the ADM1 region that this region belongs to.  
+- **Country:** The country where this region is located.  
+- **PCODE:** A unique identifier assigned to each administrative region to ensure accurate matching.  
+- **Population:** The total population within this administrative region.  
+- **Adjusted Severity Score:** The overall shelter vulnerability score, calculated using the decision tree method and adjusted for baseline vulnerability.  
+- **Shelter Vulnerability Score:** The shelter vulnerability score derived from the decision tree method before adjustments.  
+- **Refresh:** Click this button to refresh the calculations. (Press the small blue pencil icon on the right to unlock it.) The button will reset to an unclicked state once calculations are complete. Be sure to refresh the page to view any updates.  
+
+- **Decision Tree:** The decision tree used to calculate the overall severity score. By default, it is set to the decision tree configured by the Global Shelter Cluster but can be modified as needed.  
+- **Threshold:** Defines the percentage of lower administrative regions required at a specific score for it to be displayed at this administrative level. For example, if set to 20% (0.2), the highest cumulative score meeting this threshold will be shown. If 15% of lower regions have a score of 5, 4% have a score of 4, and 2% have a score of 3, then the displayed score will be 3.  
+
+All fields are read-only except for **'Refresh'**, **'Decision Tree'**, and **'Data Timeframe'**.  
+
+
+### Overall Pillar Themes & Scores
+
+![image](https://github.com/user-attachments/assets/a6567449-e033-494f-a7ef-4c8d366f1a7b)
+
+This page reflects data across all administrative regions. It is divided into the individual pillars, and shows the score in each theme as well as the pillar score. For more information on the definitions of these pillars or themes, see **[here](../general/page1.md)**.
+

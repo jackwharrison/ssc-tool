@@ -65,7 +65,5 @@ nav:
     - 'Adding data or new regions to the ': 
       - 'Adding a new country': 'customization/page1.md'
       - 'Adding data': 'customization/page2.md'
-    - 'Advanced Pack':
-      - 'Advanced Pack License': 'advanced/page1.md'
 
     

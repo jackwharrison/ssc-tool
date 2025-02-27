@@ -51,11 +51,49 @@ Download ADM2 template [here](https://docs.google.com/spreadsheets/d/1e0D-MQaNHP
 Download ADM3 template [here](https://docs.google.com/spreadsheets/d/1nQMXl4sDsl0dtA6qVBbTzAfeqeN69DZbPc3tbn6kyNY/export?format=csv)
 
 
-### **Adding the data to the system**
+## **Adding the data to the system**
 
 **Important:** Files must be uploaded in order from ADM0 to ADM3 to make sure they connect correctly to the higher administrative levels. Uploading them in the wrong order may cause errors in the data.
 
 Access the import page <a href="http://172.201.122.141/#Import" target="_blank">here</a>.
+
+
+### **Step 1:**
+
+Step 1 of the import page will look like this: 
+
+![image](https://github.com/user-attachments/assets/83df7ddf-30f9-4a33-b3c6-6dfcb70d234b)
+
+Most of this page can be ignored, but these key features are important:
+
+**"What to Import?" Tab**
+
+- **Entity Type:**
+
+  Select the entity you are uploading data for. In this case, it’s administrative data, so choose from **ADM0, ADM1, ADM2, or ADM3**.
+
+- **File (CSV):**
+
+  Upload your file here using the template you previously downloaded and filled in. Ensure the file is saved as a **CSV**.
+
+- **What to do?:**
+
+  This is set to **"Create Only"** by default. If you are adding new regions, leave this as **"Create Only"**.
+
+**Properties Tab**  
+This section can mostly be ignored, but ensure **"Silent Mode"** is not enabled.
+
+Click Next to proceed to Step 2.
+
+### **Step 2:**
+
+Step 2 of the import page will look like this (using ADM2 data from Mozambique)
+
+![image](https://github.com/user-attachments/assets/2844159d-68af-4253-8b17-359b714c78d2)
+
+A preview of your data will appear. The fields should automatically match, however, if they do not, you can manually map the fields using the drop down boxes.
+
+Click 'Run Import'. This should happen smoothly, however, if there are errors, you can click 'Revert Import', and try to fix any mistakes in your CSV, and repeat the process.
 
 
 

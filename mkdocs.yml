@@ -62,17 +62,9 @@ nav:
       - 'Data': 'data/page1.md'
     - ' Visualizations' :
       - 'Visualizations': 'visualizations/page1.md'    
-    - 'Customization': 
-      - 'How to create a new entity': 'customization/page1.md'
-      - 'How to link entities': 'customization/page2.md'
-      - 'Sending SMS messages': 'customization/page3.md'
-      - 'Mass messaging with WhatsApp/Twilio': 'customization/page4.md'
-      - 'DEH': 'customization/page5.md'
-      - 'Sending emails': 'customization/page6.md'
-      - 'Integration of EspoCRM with KoboToolbox ': 'customization/page7.md'
-      - 'Integration of EspoCRM with Twilio': 'customization/page8.md'
-      - 'Creating dashboards in EspoCRM': 'customization/page10.md'
-      - 'Flowcharts': 'customization/page11.md'
+    - 'Adding data or new regions to the ': 
+      - 'Adding a new country': 'customization/page1.md'
+      - 'Adding data': 'customization/page2.md'
     - 'Advanced Pack':
       - 'Advanced Pack License': 'advanced/page1.md'
 

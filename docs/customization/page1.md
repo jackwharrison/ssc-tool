@@ -55,7 +55,7 @@ Download ADM3 template [here](https://docs.google.com/spreadsheets/d/1nQMXl4sDsl
 
 **Important:** Files must be uploaded in order from ADM0 to ADM3 to make sure they connect correctly to the higher administrative levels. Uploading them in the wrong order may cause errors in the data.
 
-Access the import page [here](http://172.201.122.141/#Import)
+Access the import page <a href="http://172.201.122.141/#Import" target="_blank">here</a>.
 
 
 

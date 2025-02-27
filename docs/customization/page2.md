@@ -6,7 +6,7 @@ There are three types of indicators:
 
 - **General** (Stored in the Indicator Bank)
 
-  Contains indicators for **pillar data** and **baseline vulnerability data**.
+  Contains indicators for **pillar data** and **baseline vulnerability data**. Each indicator can only contain one theme and sub-theme, so if you have data which contains multiple themes, such as an MSNA, please create seperate indicators for each theme.
 
 - **Impact Indicators**
 

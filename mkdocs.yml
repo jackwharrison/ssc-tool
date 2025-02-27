@@ -65,5 +65,6 @@ nav:
     - 'Adding data or new regions to the system': 
       - 'Adding a new country': 'customization/page1.md'
       - 'Adding indicators': 'customization/page2.md'
+      - 'Adding data': 'customization/page3.md'
 
     

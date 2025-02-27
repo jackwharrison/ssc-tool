@@ -10,6 +10,8 @@ If you are using categorical data, add several new columns, called critValue1, c
 
 Access the import page <a href="http://172.201.122.141/#Import" target="_blank">here</a>.
 
+The process is similar to that for creating admin regions, however this time, for 'Entity Type' select which pillar you would like to use.
+
 In step 2 of the import page, there is a default values tab, here select 'Indicator':
 
 ![image](https://github.com/user-attachments/assets/3bf2df28-c362-41cb-9d88-3b676d656778)

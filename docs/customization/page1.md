@@ -13,6 +13,7 @@ This process involves multiple steps, as each administrative layer must be uploa
 ### **Required Data for Each Administrative Layer (Template name shown in brackets)**
 
 **ADM0 (Country):**
+
 - Country name (name)
 - ADM0 PCODE (pcode)
 - Population (pcode)
@@ -20,6 +21,7 @@ This process involves multiple steps, as each administrative layer must be uploa
 Download ADM0 template [here](https://docs.google.com/spreadsheets/d/1bGP0UqasEV6Qjf38MlnMrv_Wf5WNp_1vVmRBOxb0EGo/export?format=csv)
 
 **ADM1:**
+
 - Country name (adm0Name)
 - ADM1 Name (name)
 - ADM1 PCODE (pcode)
@@ -28,6 +30,7 @@ Download ADM0 template [here](https://docs.google.com/spreadsheets/d/1bGP0UqasEV
 Download ADM1 template [here](https://docs.google.com/spreadsheets/d/1HiYCJLmZCGibhGUpdpNGbwbfwH-l5y5Qwn9eqNH82JE/export?format=csv)
 
 **ADM2:**
+
 - Country name (adm0Name)
 - ADM1 Name (adm1Name)
 - ADM2 Name (adm2Name)
@@ -37,6 +40,7 @@ Download ADM1 template [here](https://docs.google.com/spreadsheets/d/1HiYCJLmZCG
 Download ADM2 template [here](https://docs.google.com/spreadsheets/d/1e0D-MQaNHPO_FEdkFs6sdY4q8h3oNhShs9jALvwLOCo/export?format=csv)
 
 **ADM3:**
+
 - Country name (adm0Name)
 - ADM1 Name (adm1Name)
 - ADM2 Name (adm2Name)

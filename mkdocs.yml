@@ -62,7 +62,7 @@ nav:
       - 'Data': 'data/page1.md'
     - ' Visualizations' :
       - 'Visualizations': 'visualizations/page1.md'    
-    - 'Adding data or new regions to the ': 
+    - 'Adding data or new regions to the system': 
       - 'Adding a new country': 'customization/page1.md'
       - 'Adding data': 'customization/page2.md'
 

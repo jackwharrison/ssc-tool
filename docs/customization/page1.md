@@ -1,8 +1,8 @@
-# Adding or Updating Regional Data  
+# **Adding or Updating Regional Data**
 
 **Important:** Administrative rights are required to edit or create ADM data. If you do not have the necessary permissions but believe you should, please contact your system administrator (**Jack Harrison – jharrison@redcross.nl**).  
 
-## Adding a New Country to the System  
+## **Adding a New Country to the System**  
 
 Before using the system for a new country, you must first upload its administrative regions.  
 
@@ -10,7 +10,7 @@ This process involves multiple steps, as each administrative layer must be uploa
 
 **Note:** The system is only recommended for use if you have administrative data down to at least **ADM2**. Additionally, the system currently supports data up to **ADM3**.  
 
-### Required Data for Each Administrative Layer (Template name shown in brackets)
+### **Required Data for Each Administrative Layer (Template name shown in brackets)**
 
 **ADM0 (Country):**
 - Country name (name)
@@ -47,7 +47,7 @@ Download ADM2 template [here](https://docs.google.com/spreadsheets/d/1e0D-MQaNHP
 Download ADM3 template [here](https://docs.google.com/spreadsheets/d/1nQMXl4sDsl0dtA6qVBbTzAfeqeN69DZbPc3tbn6kyNY/export?format=csv)
 
 
-### Adding the data to the system
+### **Adding the data to the system**
 
 **Important:** Files must be uploaded in order from ADM0 to ADM3 to make sure they connect correctly to the higher administrative levels. Uploading them in the wrong order may cause errors in the data.
 

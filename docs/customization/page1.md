@@ -85,15 +85,19 @@ This section can mostly be ignored, but ensure **"Silent Mode"** is not enabled.
 
 Click Next to proceed to Step 2.
 
-### **Step 2:**
+### **Step 2: Reviewing and Running the Import**
 
-Step 2 of the import page will look like this (using ADM2 data from Mozambique)
+At this stage, the import page will display a preview of your data, as shown below (example using ADM2 data from Mozambique):
+
 
 ![image](https://github.com/user-attachments/assets/2844159d-68af-4253-8b17-359b714c78d2)
 
-A preview of your data will appear. The fields should automatically match, however, if they do not, you can manually map the fields using the drop down boxes.
+The system should automatically match the fields. If any fields are incorrect or unmatched, you can manually adjust them using the dropdown menus.
 
-Click 'Run Import'. This should happen smoothly, however, if there are errors, you can click 'Revert Import', and try to fix any mistakes in your CSV, and repeat the process.
+Once everything looks correct, click **"Run Import"**. If the process encounters errors, click **"Revert Import"**, correct any mistakes in your CSV, and try again.
+
+
+
 
 
 

@@ -50,6 +50,45 @@ _People have access to common services and community infrastructure for their dw
 
 
 
+## Scores / Phases
+
+Each pillar has a score from one to five, and each score refers to a phase, which can be defined as such:
+
+### **Phase 1 (None / Minimal):**
+
+**Household level:** Household lives in adequate dwellings*, can perform all typical, core domestic functions, and has adequate access to all community-level services and infrastructure
+
+**Area-level:** at least 80% of households are living in shelter conditions described above
+
+### **Phase 2 (Stressed):**
+
+**Household level:** Household lives in adequate dwellings* (with minor issues), can perform most typical, core domestic functions, and has adequate access to most community-level services and infrastructure
+
+**Area-level:** up to 20% of households are living in shelter conditions described in phases 2+3+4+5 (less than 20% are in conditions described in phases 3+4+5)
+
+### **Phase 3 (Crisis):**
+
+**Household level:** Household lives in inadequate dwellings* (with significant issues), is unable to perform many typical, core domestic functions, and has limited adequate access to community-level services and infrastructure
+
+**Area-level:** at least 20% of households are living in shelter conditions described in phases 3+4+5 (less than 20% are in conditions described in phase 4+5)
+
+### **Phase 4 (Critical):**
+
+**Household level:** Household lives in inadequate dwellings* (with severe issues), is unable to perform most typical, core domestic functions, and has very limited adequate access to community-level services and infrastructure
+
+**Area-level:** at least 20% of households are living in shelter conditions described in phases 4+5 (less than 20% are in condition described in phase 5)
+
+### **Phase 5 (Catastrophic):**
+
+**Household level:** Household has no or is living in severely damaged dwelling*, is unable to perform all typical, core domestic function, and has no access to community-level services and infrastructure
+
+**Area-level:** At least 20% of households are living in shelter conditions described above
+
+
+*Adequate dwelling: safe and secure structure that protects against external threats, health problems, thermal discomfort, natural elements. 
+
+**Note:** as much as possible, the key principles of adequate housing are applied, as considered possible in humanitarian contexts with generally limited availability of data.
+
 
 
  

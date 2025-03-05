@@ -58,7 +58,6 @@ _Example Indicators:_ Population density, average floor space per inhabitant
 - Improve ventilation, lighting, and drainage in shelters.  
 - Distribute mosquito nets and pest control supplies.  
 - Provide insulation materials to regulate indoor temperature.  
-- Promote hygiene awareness and disease prevention campaigns.  
 
 ### 4. Security of Tenure  
 - Facilitate legal support for securing land tenure.  

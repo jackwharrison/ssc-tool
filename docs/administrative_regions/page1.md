@@ -3,7 +3,8 @@
 The SSC tool calculates scores for each administrative region, depending on data availability. It currently supports four levels of administrative regions, ranging from ADM0 to ADM3.  
 
 - **ADM0** always represents the country.  
-- **ADM1, ADM2, and ADM3** represent progressively smaller administrative divisions, though their specific names vary by country.  
+- **ADM1, ADM2, and ADM3** represent progressively smaller administrative divisions, though their specific names vary by country.
+- There is also the option to store data at **ADM4** level, however it is not possible to calculate scores at this level
 
 ## Administrative Regions in the Tool  
 

@@ -1,5 +1,6 @@
 # **Pillar 3:** People have appropriate access to common services and infrastucture from their dwelling 
 
+Each pillar is structured into themes and sub-themes, with each theme further categorized to represent varying levels of severity.
 
 ## Pillar 3 Themes
 

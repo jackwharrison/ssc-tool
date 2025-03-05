@@ -1,5 +1,7 @@
 # **Pillar 1:** People have a dwelling
 
+Each pillar is divided into themes and sub-themes. Furthermore, each theme is divided into categories, reflecting the level of severity within.
+
 ## Pillar 1 Themes
 
 #### **Physical Safety:** Level of safety, and security provided by the shelter (defects, issues, damage, location / environment)

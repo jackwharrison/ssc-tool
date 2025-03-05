@@ -54,6 +54,8 @@ nav:
       - 'Pillar 3 - Outside The Shelter': 'general/page4.md'
     - 'Administrative Divisions':
       - 'Administrative Regions': 'administrative_regions/page1.md'
+      - 'ADM1 to ADM3': 'administrative_regions/page2.md'
+      - 'ADM0 (Country)': 'administrative_regions/page3.md'
     - 'Indicators and Decisions Trees' :
       - 'Indicator Bank': 'indicators_and_decision_trees/page1.md'
       - 'Hazard Indicators': 'indicators_and_decision_trees/page2.md'

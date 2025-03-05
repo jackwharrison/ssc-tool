@@ -2,7 +2,7 @@
 
 ## Pillar 1 Themes
 
-1. **Physical Safety:** Level of safety, and security provided by the shelter (defects, issues, damage, location / environment)
+#### **Physical Safety:** Level of safety, and security provided by the shelter (defects, issues, damage, location / environment)
 - **Safe**
 - **Unsafe:** Risky (can affect goods/property or can affect mental/physical health)
 - **Unsafe:** Dangerous (does not provide physical protection, or can pose physical threats)
@@ -17,21 +17,21 @@ _Example Indicators:_ Building typology, building damage, etc
 
 _Example Indicators:_ Population density, average floor space per inhabitant
 
-3. **Habitability and Health:**  Level of thermal comfort and a healthy environment provided by the shelter.  
+#### **Habitability and Health:**  Level of thermal comfort and a healthy environment provided by the shelter.  
 - Provides protection from the elements, thermal comfort, and a healthy environment.  
 - Lack of ventilation, and/or natural light, and/or exposure to vectors.  
 - Does not protect against the weather OR provide thermal comfort.  
 
  _Example Indicators:_ Ventilation, insulation, indoor air quality, presence of mold, exposure to disease vectors.  
 
-4. **Security of Tenure:** Level of security of tenure.  
+#### **Security of Tenure:** Level of security of tenure.  
 - Good enough security of tenure.  
 - Low/medium risk.  
 - High risk.  
 
  _Example Indicators:_ Land ownership documents, eviction risk, legal recognition of tenure rights.  
 
-5. **Accessibility:** Level of accessibility according to the needs.  
+#### **Accessibility:** Level of accessibility according to the needs.  
 - Accessible.  
 - Partially accessible.  
 - Not accessible.  

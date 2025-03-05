@@ -51,4 +51,40 @@ This section provides details on an indicator, including its classification and 
 
 ### Notes:  
 - The **criteria, scores, theme, and sub-theme** vary depending on which **pillar** is selected.  
-- This structure ensures a standardized approach to classifying categorical data within shelter assessments.  
+- This structure ensures a standardized approach to classifying categorical data within shelter assessments.
+
+
+# Indicator Information Overview (Gradient Data)
+
+![image](https://github.com/user-attachments/assets/fe89c266-60bb-486f-bff3-d6acb9f2dd04)
+
+This section provides details on an indicator using **gradient data**, meaning values are represented numerically rather than as predefined categories. The data is classified based on thresholds, determining the level of vulnerability.
+
+## Fields  
+
+- **Timeframe** – Specifies whether the indicator applies to a pre-disaster, during-disaster, or post-disaster scenario.  
+- **Indicator Category** – Defines the broader classification of the indicator, which determines its focus:  
+  - **Pillar 1** – Can people live in safe and dignified dwellings that protect them from external threats, health risks, weather, and natural hazards?  
+  - **Pillar 2** – Can people live properly and with dignity in their dwellings, and are they able to properly practice domestic functions?  
+  - **Pillar 3** – Can people access common services and infrastructure?  
+  - **Baseline Vulnerability** – Covers factors that do not fit within the three pillars but influence shelter risk severity, such as poverty.  
+
+## Pillars  
+
+- **Pillar Definition** – Describes the aspect of shelter conditions that the indicator measures.  
+- **Theme** – A broad category under the pillar (e.g., Energy).  
+- **Sub-Theme** – A more specific category within the theme (e.g., Communications and Livelihoods - Energy).  
+
+## Data Classification  
+
+- **Ascending / Descending** – Determines how vulnerability is measured:  
+  - **Ascending** – Higher values indicate increased vulnerability (e.g., poverty rate, unemployment).  
+  - **Descending** – Higher values indicate reduced vulnerability (e.g., literacy rate, access to clean water).  
+- **Category Boundaries** – Defines the threshold for classification:  
+  - For **ascending data**, values **below** the threshold belong to the **lowest vulnerability category (Category 1)**. If only two categories exist, all values above fall into **Category 2**.  
+  - For **descending data**, values **above** the threshold belong to the **lowest vulnerability category (Category 1)**. If only two categories exist, all values below fall into **Category 2**.  
+- **Threshold** – The numerical value that determines category boundaries.  
+
+### Notes:  
+- The **theme, sub-theme, and thresholds** vary depending on the **selected pillar**.  
+- This structure ensures a standardized approach to classifying gradient data within shelter assessments.  

@@ -2,6 +2,9 @@
 
 Each pillar is structured into themes and sub-themes, with each theme further categorized to represent varying levels of severity.
 
+![image](https://github.com/user-attachments/assets/ada562ae-1ef4-4d37-b871-4c1743bed40c)
+
+
 ## Pillar 1 Themes
 
 #### **Physical Safety:** Level of safety, and security provided by the shelter (defects, issues, damage, location / environment)

@@ -2,6 +2,9 @@
 
 The SSC, or Shelter Severity Classification system, streamlines analysis by capturing a wide range of critical shelter characteristics. A shelter is much more than four walls and a roof—it protects from the elements, helps prevent illness, and provides a secure, nurturing environment where families can live and thrive. Beyond offering basic safety, a well-designed shelter supports livelihoods, fosters dignity, and instills a sense of security. The SSC brings all these vital elements together in one comprehensive system.
 
+![image](https://github.com/user-attachments/assets/913d6def-54b2-4eb8-9426-3e55e2bca06b)
+
+
 ## What do we need from the SSC?
 
 We need to be able to effectively answer the following questions in the aftermath of an impact:

@@ -1,8 +1,8 @@
 # **Pillar 2:** People can live properly in their dwellings
 
-Each pillar is structured into themes and sub-themes, with each theme further categorized to represent varying levels of severity.
-
 ![image](https://github.com/user-attachments/assets/cee2748c-d929-4429-b6d1-b832935793ee)
+
+Each pillar is structured into themes and sub-themes, with each theme further categorized to represent varying levels of severity.
 
 ## Pillar 2 Themes
 

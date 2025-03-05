@@ -1,7 +1,7 @@
 # **Pillar 2:** People can live properly in their dwellings
 
 
-## Essential Needs and Availability  
+## Pillar 2 Themes
 
 ### 1. Clothing  
 #### People have sufficient and appropriate quality clothing  

@@ -59,7 +59,8 @@ nav:
     - 'Indicators and Decisions Trees' :
       - 'Indicator Bank': 'indicators_and_decision_trees/page1.md'
       - 'Hazard Indicators': 'indicators_and_decision_trees/page2.md'
-      - 'Decision Trees': 'indicators_and_decision_trees/page3.md'
+      - 'Impact Indicators': 'indicators_and_decision_trees/page3.md'
+      - 'Decision Trees': 'indicators_and_decision_trees/page4.md'
     - ' Data (Pillars, Vulnerabilities, Hazards, and Impacts)' :
       - 'Data': 'data/page1.md'
     - ' Visualizations' :

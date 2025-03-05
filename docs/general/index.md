@@ -53,6 +53,77 @@ _People have access to common services and community infrastructure for their dw
 
 
 
+## Scores / Phases
 
+Each pillar has a score from one to five, and each score refers to a phase, which can be defined as such:
+
+### **Phase 1 (None / Minimal):**
+
+**Household level:** Household lives in adequate dwellings*, can perform all typical, core domestic functions, and has adequate access to all community-level services and infrastructure
+
+**Area-level:** at least 80% of households are living in shelter conditions described above
+
+### **Phase 2 (Stressed):**
+
+**Household level:** Household lives in adequate dwellings* (with minor issues), can perform most typical, core domestic functions, and has adequate access to most community-level services and infrastructure
+
+**Area-level:** up to 20% of households are living in shelter conditions described in phases 2+3+4+5 (less than 20% are in conditions described in phases 3+4+5)
+
+### **Phase 3 (Crisis):**
+
+**Household level:** Household lives in inadequate dwellings* (with significant issues), is unable to perform many typical, core domestic functions, and has limited adequate access to community-level services and infrastructure
+
+**Area-level:** at least 20% of households are living in shelter conditions described in phases 3+4+5 (less than 20% are in conditions described in phase 4+5)
+
+### **Phase 4 (Critical):**
+
+**Household level:** Household lives in inadequate dwellings* (with severe issues), is unable to perform most typical, core domestic functions, and has very limited adequate access to community-level services and infrastructure
+
+**Area-level:** at least 20% of households are living in shelter conditions described in phases 4+5 (less than 20% are in condition described in phase 5)
+
+### **Phase 5 (Catastrophic):**
+
+**Household level:** Household has no or is living in severely damaged dwelling*, is unable to perform all typical, core domestic function, and has no access to community-level services and infrastructure
+
+**Area-level:** At least 20% of households are living in shelter conditions described above
+
+
+*Adequate dwelling: safe and secure structure that protects against external threats, health problems, thermal discomfort, natural elements. 
+
+**Note:** as much as possible, the key principles of adequate housing are applied, as considered possible in humanitarian contexts with generally limited availability of data.
+
+
+# Shelter Vulnerability and Needs Framework  
+
+Ultimately the SSC is divided into preparedness and reponse.
+
+![image](https://github.com/user-attachments/assets/80f80183-1a13-4e0d-8e30-633fba3346b1)
 
  
+
+This diagram illustrates a framework for assessing **shelter vulnerability** and **needs** in both **preparedness** and **response** phases. It highlights how vulnerabilities are adjusted before and after a disaster event, integrating predictive modeling and scenario-based hazard assessments.  
+
+## **Preparedness Phase** (Left Side – Purple Border)  
+This phase focuses on evaluating **pre-disaster shelter vulnerability** based on:  
+- **Three Pillars:**  
+  - **Pillar 1** – Safe and dignified dwellings.  
+  - **Pillar 2** – Living conditions and ability to practice domestic functions.  
+  - **Pillar 3** – Access to services and infrastructure.  
+- **General Vulnerabilities and Capacities** – Broader contextual factors influencing shelter conditions.  
+- **Pre-disaster Shelter Vulnerability** is calculated and then **adjusted** based on these factors.  
+- The **adjusted pre-disaster shelter vulnerability** informs hazard impact assessments, considering multiple **hazards (Hazard 1, Hazard 2, Hazard 3)** and resulting **scenarios (Scenario 1, Scenario 2, Scenario 3).**  
+
+## **Response Phase** (Right Side – Red Border)  
+After a disaster **event** occurs, the framework shifts to evaluating **post-disaster shelter needs** by:  
+- Using **predictive modeling** to estimate potential impacts.  
+- Considering **other vulnerabilities and capacities** that emerge post-disaster.  
+- Reassessing shelter needs using the same **three pillars (Pillar 1, Pillar 2, Pillar 3).**  
+- Calculating **Post-disaster Shelter Needs**, which are then **adjusted** based on new conditions.  
+
+## **Key Concepts**  
+- **SSC (Shelter Severity Classification)** – Used in both preparedness and response to assess vulnerability and needs.  
+- **Hazard Scenarios** – Different hazard events lead to different impact scenarios.  
+- **Predictive Modeling** – Helps estimate post-disaster conditions before actual assessments occur.  
+- **Event Trigger** – Marks the transition from preparedness to response when a disaster occurs.  
+
+This structured approach allows for a comprehensive understanding of shelter vulnerabilities and ensures effective planning before and after a disaster.

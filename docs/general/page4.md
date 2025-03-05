@@ -1,5 +1,7 @@
 # **Pillar 3:** People have appropriate access to common services and infrastucture from their dwelling 
 
+![image](https://github.com/user-attachments/assets/49194a53-28e9-4bf8-be3e-d6bf352b040a)
+
 Each pillar is structured into themes and sub-themes, with each theme further categorized to represent varying levels of severity.
 
 ## Pillar 3 Themes

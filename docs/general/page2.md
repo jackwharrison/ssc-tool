@@ -1,8 +1,6 @@
-# **Pillar 1:** People have a dwelling _(The structure itself functions as an enclosed living spcae that protects from external threats_
+# **Pillar 1:** People have a dwelling
 
-Each pillar is divided into themes, and then each theme is divided into seperate categories to reflect level of severity. 
-
-Pillar is divided into the following themes:
+## Pillar 1 Themes
 
 1. **Physical Safety:** Level of safety, and security provided by the shelter (defects, issues, damage, location / environment)
 - **Safe**

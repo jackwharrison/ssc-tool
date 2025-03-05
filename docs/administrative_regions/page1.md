@@ -39,3 +39,63 @@ All fields are read-only except for **'Refresh'**, **'Decision Tree'**, and **'D
 
 This page reflects data across all administrative regions. It is divided into the individual pillars, and shows the score in each theme as well as the pillar score. For more information on the definitions of these pillars or themes, see **[here](../general/page1.md)**.
 
+Scores are calculated across administrative layers in two ways:
+
+1. **Local Pillar Score:** This score is derived solely from data specific to a given administrative layer. For example, if an indicator is only available at admin level 2 (ADM2), it will contribute to the local pillar score for ADM2 but not for ADM1 or ADM3. Each administrative layer has its own local pillar score.
+
+2. **Overall Pillar Score:** This score incorporates data from multiple administrative layers. For higher administrative layers, the local pillar score is assumed to represent all lower-level regions within it and is included in the overall pillar score. For lower administrative layers, if data coverage exceeds a predefined threshold, those scores are also factored into the overall pillar score. Finally, the local pillar score itself is always included in the overall pillar score.
+
+
+### Region Level Pillar Themes & Scores
+
+![image](https://github.com/user-attachments/assets/3c074be6-cd7c-44e5-b1f8-bc474b8d036b)
+
+This page is the same as the previous page, however it only shows local pillar scores data.
+
+### Baseline Vulnerability Information
+
+![image](https://github.com/user-attachments/assets/4f554998-2ba2-4ad8-a839-a781f2f9d710)
+
+This page displays **vulnerability data**—factors that fall outside the three pillars but still impact household vulnerability. It includes two key fields:  
+
+1. Vulnerability Threshold  
+This represents the percentage of a region’s population that must fall into a specific category for the region to be classified as vulnerable. It is expressed as a decimal (e.g., `0.2 = 20%`).  
+
+For example, if more than **20% of the population** lives in poverty, the region is considered **vulnerable**. When a region is deemed vulnerable, this increases the **Adjusted Severity Score**.  
+
+2. Percentage of Population that is Vulnerable  
+This represents the proportion of the population that is **likely to be vulnerable**.  
+
+- This calculation is based on **lower administrative regions**.  
+- If a lower admin region exceeds the vulnerability threshold, the **entire region** is classified as vulnerable.  
+- In this example, if **all lower admin regions** surpass the threshold, the entire region is considered vulnerable.  
+
+### Hazard Scores
+
+![image](https://github.com/user-attachments/assets/f4cbcfb4-ddac-4455-a838-c453a8a7248a)
+
+This page provides **risk scores** for five major hazards, along with the option to include **region-specific hazards**. The five primary hazards are:  
+
+- **Volcano Risk**  
+- **Typhoon Risk**  
+- **Flood Risk**  
+- **Earthquake Risk**  
+- **Conflict Risk**  
+
+If data for a particular hazard is unavailable, that field will not appear.  
+
+**Important Note:**
+These risk scores are based on indicators that may only capture **a specific aspect** of a hazard. For example, **typhoon risk** may only reflect **storm surge**, rather than the full impact of a typhoon.  
+
+As a result, these scores should be used **as guidance only** and not as a definitive assessment of risk.  
+
+
+### Bottom Panels 
+
+![image](https://github.com/user-attachments/assets/f836ce6a-42b5-4004-a5ad-c0b0d66c30f2)
+
+At the bottom of each page, **data panels** display all the individual data points that contribute to the scores for that administrative region.  
+
+## ADM0 (Country level)
+
+

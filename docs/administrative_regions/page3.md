@@ -88,4 +88,61 @@ Access to common services and infrastructure refers to the availability of **ess
 - The **percentage of households** in each phase is shown, indicating the extent to which people can rely on essential services.  
 - A **higher percentage in Phase 1** suggests that most households have good access to necessary services and infrastructure.  
 - A **higher percentage in Phases 3-4** indicates significant gaps in service availability, requiring urgent improvements.  
-- This data helps identify **regions where infrastructure and service access need strengthening** to improve household well-being.  
+- This data helps identify **regions where infrastructure and service access need strengthening** to improve household well-being.
+
+## Adjusted Severity Scores
+
+
+![image](https://github.com/user-attachments/assets/f201410b-1efa-4652-8a12-a6924b6b7aca)
+
+This section provides a **holistic assessment** of household living conditions, incorporating **shelter adequacy, access to community services and infrastructure, and underlying vulnerability factors** such as poverty and literacy rates. The percentages represent the proportion of households classified into different severity phases after adjusting for baseline vulnerabilities.  
+
+### **Definition**  
+This adjusted severity score accounts for:  
+- **Dwelling adequacy** (safety, security, and living conditions).  
+- **Ability to perform essential domestic functions** (cooking, sleeping, hygiene, storage).  
+- **Access to essential community services and infrastructure** (water, electricity, health, transportation).  
+- **Other vulnerability factors** (poverty levels, literacy rates, socio-economic stressors).  
+
+### **Phases of Adjusted Severity**  
+- **Phase 1 (None/Minimal):** Household lives in **adequate** dwellings, can perform all **core domestic functions**, and has **adequate access** to all community-level services and infrastructure.  
+- **Phase 2 (Stressed):** Household has **minor issues** in one or more areas (shelter, domestic functionality, or infrastructure access), but remains mostly stable.  
+- **Phase 3 (Crisis):** Household lives in **inadequate** dwellings (significant issues), struggles to perform **many** domestic functions, and has **limited** access to community services.  
+- **Phase 4 (Critical):** Household lives in **severely inadequate** dwellings, is **unable to perform most** domestic functions, and has **very limited access** to services and infrastructure.  
+- **Phase 5 (Catastrophic):** Household is in **extreme conditions**—living in **severely damaged** or no dwelling, **unable to perform all** domestic functions, and has **no access** to essential services.  
+
+### **Displayed Information**  
+- The **percentage of households** in each phase is shown, reflecting the overall severity of living conditions after considering baseline vulnerabilities.  
+- A **higher percentage in Phase 1** suggests **good overall living conditions** with minimal vulnerability impacts.  
+- A **higher percentage in Phases 3-5** indicates **severe shelter and service deficits**, requiring urgent intervention.  
+- This data helps inform **targeted response planning**, ensuring that the most vulnerable populations receive **appropriate support**.
+
+## Overall Shelter Severity Scores
+
+
+![image](https://github.com/user-attachments/assets/c203d0e1-8fc2-4a88-8b7e-d9a0821f0d14)
+
+
+This section provides an **assessment of household living conditions**, incorporating **shelter adequacy, access to community services, and security of tenure**. The percentages represent the proportion of households classified into different severity phases based on their living situation.  
+
+### **Definition**  
+The overall severity score evaluates:  
+- **Dwelling adequacy** (safety, security, and structural condition).  
+- **Ability to perform essential domestic functions** (cooking, sleeping, hygiene, storage).  
+- **Access to essential community services and infrastructure** (water, electricity, healthcare, transportation).  
+- **Security of tenure** (stability of housing, risk of eviction, legal recognition of housing rights).  
+
+### **Phases of Overall Severity**  
+- **Phase 1 (None/Minimal):** Household lives in **adequate** dwellings, can perform all **core domestic functions**, and has **adequate access** to all community-level services and infrastructure.  
+- **Phase 2 (Stressed):** Household has **minor issues** in one or more areas (shelter, domestic functionality, or infrastructure access) but remains mostly stable.  
+- **Phase 3 (Crisis):** Household lives in **inadequate** dwellings (significant issues), struggles to perform **many** domestic functions, and has **limited** access to community services.  
+- **Phase 4 (Critical):** Household lives in **severely inadequate** dwellings, is **unable to perform most** domestic functions, and has **very limited access** to services and infrastructure.  
+- **Phase 5 (Catastrophic):** Household is in **extreme conditions**—living in **severely damaged** or no dwelling, **unable to perform all** domestic functions, and has **no access** to essential services.  
+
+### **Displayed Information**  
+- The **percentage of households** in each phase is shown, reflecting the overall severity of living conditions.  
+- A **higher percentage in Phase 1** suggests **good overall living conditions** with minimal issues.  
+- A **higher percentage in Phases 3-5** indicates **severe shelter and service deficits**, requiring urgent intervention.  
+- This data helps inform **targeted response planning**, ensuring that the most vulnerable populations receive **appropriate support**.  
+
+

@@ -93,5 +93,37 @@ Each pillar has a score from one to five, and each score refers to a phase, whic
 **Note:** as much as possible, the key principles of adequate housing are applied, as considered possible in humanitarian contexts with generally limited availability of data.
 
 
+# Shelter Vulnerability and Needs Framework  
+
+Ultimately the SSC is divided into preparedness and reponse.
+
+![image](https://github.com/user-attachments/assets/80f80183-1a13-4e0d-8e30-633fba3346b1)
 
  
+
+This diagram illustrates a framework for assessing **shelter vulnerability** and **needs** in both **preparedness** and **response** phases. It highlights how vulnerabilities are adjusted before and after a disaster event, integrating predictive modeling and scenario-based hazard assessments.  
+
+## **Preparedness Phase** (Left Side – Purple Border)  
+This phase focuses on evaluating **pre-disaster shelter vulnerability** based on:  
+- **Three Pillars:**  
+  - **Pillar 1** – Safe and dignified dwellings.  
+  - **Pillar 2** – Living conditions and ability to practice domestic functions.  
+  - **Pillar 3** – Access to services and infrastructure.  
+- **General Vulnerabilities and Capacities** – Broader contextual factors influencing shelter conditions.  
+- **Pre-disaster Shelter Vulnerability** is calculated and then **adjusted** based on these factors.  
+- The **adjusted pre-disaster shelter vulnerability** informs hazard impact assessments, considering multiple **hazards (Hazard 1, Hazard 2, Hazard 3)** and resulting **scenarios (Scenario 1, Scenario 2, Scenario 3).**  
+
+## **Response Phase** (Right Side – Red Border)  
+After a disaster **event** occurs, the framework shifts to evaluating **post-disaster shelter needs** by:  
+- Using **predictive modeling** to estimate potential impacts.  
+- Considering **other vulnerabilities and capacities** that emerge post-disaster.  
+- Reassessing shelter needs using the same **three pillars (Pillar 1, Pillar 2, Pillar 3).**  
+- Calculating **Post-disaster Shelter Needs**, which are then **adjusted** based on new conditions.  
+
+## **Key Concepts**  
+- **SSC (Shelter Severity Classification)** – Used in both preparedness and response to assess vulnerability and needs.  
+- **Hazard Scenarios** – Different hazard events lead to different impact scenarios.  
+- **Predictive Modeling** – Helps estimate post-disaster conditions before actual assessments occur.  
+- **Event Trigger** – Marks the transition from preparedness to response when a disaster occurs.  
+
+This structured approach allows for a comprehensive understanding of shelter vulnerabilities and ensures effective planning before and after a disaster.

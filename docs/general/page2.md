@@ -1,6 +1,6 @@
 # **Pillar 1:** People have a dwelling
 
-Each pillar is divided into themes and sub-themes. Furthermore, each theme is divided into categories, reflecting the level of severity within.
+Each pillar is structured into themes and sub-themes, with each theme further categorized to represent varying levels of severity.
 
 ## Pillar 1 Themes
 

@@ -1,9 +1,8 @@
 # **Pillar 1:** People have a dwelling
 
-Each pillar is structured into themes and sub-themes, with each theme further categorized to represent varying levels of severity.
-
 ![image](https://github.com/user-attachments/assets/ada562ae-1ef4-4d37-b871-4c1743bed40c)
 
+Each pillar is structured into themes and sub-themes, with each theme further categorized to represent varying levels of severity.
 
 ## Pillar 1 Themes
 

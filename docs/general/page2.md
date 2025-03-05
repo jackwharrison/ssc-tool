@@ -10,7 +10,7 @@
 
 _Example Indicators:_ Building typology, building damage, etc
 
-2. **Overcrowding and Privacy:** Level of covered living and facilities space and privacy provided by the shelter (overcrowding, partitions)
+#### **Overcrowding and Privacy:** Level of covered living and facilities space and privacy provided by the shelter (overcrowding, partitions)
 - Sufficient space and privacy
 - No privacy
 - No privacy AND overcrowded (> 3 people per room or < 3.5m2 per person)

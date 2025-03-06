@@ -55,6 +55,8 @@ Download ADM3 template [here](https://docs.google.com/spreadsheets/d/1nQMXl4sDsl
 
 **Important:** Files must be uploaded in order from ADM0 to ADM3 to make sure they connect correctly to the higher administrative levels. Uploading them in the wrong order may cause errors in the data.
 
+**Important:** Ensure the file has **no empty rows** before importing data into the system. Remove any empty rows beforehand.
+
 Access the import page <a href="http://172.201.122.141/#Import" target="_blank">here</a>.
 
 
@@ -97,6 +99,27 @@ The system should automatically match the fields. If any fields are incorrect or
 Once everything looks correct, click **"Run Import"**. If the process encounters errors, click **"Revert Import"**, correct any mistakes in your CSV, and try again.
 
 
+# Import Page Overview  
+
+The **Import Page** provides an overview of a data import process, showing key details such as the file used, entity type, status, and results of the import.  
+
+![image](https://github.com/user-attachments/assets/15506cd6-820a-4b0f-a562-49b51821c108)
+
+## Main Sections  
+
+### 1. Import Details  
+- Displays the import timestamp.  
+- Shows the entity type being imported (e.g., regions, locations, or other dataset types).  
+- Links to the imported file.  
+- Indicates the status of the import (e.g., *Complete*, *In Progress*, *Failed*).  
+
+### 2. Import Results  
+- **Imported**: Lists successfully imported records.  
+- **Duplicates**: Shows any records that were flagged as duplicates.  
+- **Updated**: Displays records that were modified instead of newly created.  
+- **Errors**: Highlights any issues that prevented some data from being imported.  
+
+This page allows users to verify the outcome of their data import and troubleshoot any issues if necessary.
 
 
 

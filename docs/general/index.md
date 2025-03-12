@@ -5,97 +5,103 @@ The SSC, or Shelter Severity Classification system, streamlines analysis by capt
 ![image](https://github.com/user-attachments/assets/913d6def-54b2-4eb8-9426-3e55e2bca06b)
 
 
-## What do we need from the SSC?
+## What We Need from the SSC
 
-We need to be able to effectively answer the following questions in the aftermath of an impact:
+The SSC must deliver clear, actionable insights to guide response efforts after an impact. It should help answer these critical questions:
 
-1. Prioritisation and targeting - where and who should we target?
-2. What interventions are most appropriate?
-3. Are we having a positive impact?
+- **Prioritisation and targeting** – Where should we focus our efforts, and who is most in need?  
+- **Appropriate interventions** – What are the most suitable response actions?  
+- **Measuring impact** – Are our interventions making a positive difference?  
 
-## How is the SSC made?
+![image](https://github.com/user-attachments/assets/c78ff126-f607-48a0-9a5a-1da2a0050a47)
 
-The primary output of the SSC is the overall shelter severity indicator, which is scored from one to five, with one being the least vulnerable, and five being the most vulnerable. This indicator tries to answer the following: can the household live with dignity and security of tenure in an adequate dwelling with access to community-level services and infrastructure.
+## How the SSC is Made
 
-To answer that, we have divided the components of a shelter into three pillars.
+The SSC produces an **overall shelter severity indicator**, scored from **one to five**—with **one** representing the least vulnerable and **five** the most vulnerable. This indicator seeks to answer a fundamental question:  
+
+**Can the household live with dignity and security of tenure in an adequate dwelling with access to community-level services and infrastructure?**  
+
+To assess this, we break down shelter conditions into **three pillars**.  
+
 
 ### **[Pillar 1 - The Shelter:](page2.md)** 
-_The structure itself is an enclosed living space that protects from external threats. Defined as the percentage of households living in safe and dignified dwellings (structure that protects them against external threats, health problems, weather and natural hazards)_
 
-**Themes:**
+_A shelter must be an enclosed living space that protects occupants from external threats, ensuring safety, dignity, and well-being. It should provide protection against health risks, adverse weather, and natural hazards._
 
-- **Physical Safety** - Percentage of households living in safe and secure shelters
-- **Overcrowding and privacy** - Percentage of households living with sufficient space and privacy in their shelters
-- **Habitability and Health** - Percentage of households living in shelters providing thermal comfort and healthy environment
-- **Security of Tenure** - Percentage of households living with security of tenure
-- **Accessibility** - Percentage of households living in shelters meeting accessibility standards
+![image](https://github.com/user-attachments/assets/9cc86ab2-2ad4-42a6-b593-7c78386479ec)
 
+**Themes:**  
+
+- **Physical Safety** – Shelters should offer a secure and protective environment.  
+- **Overcrowding and Privacy** – Shelters should provide adequate space and privacy for households.  
+- **Habitability and Health** – Shelters should ensure thermal comfort and a healthy living environment.  
+- **Security of Tenure** – Households should have stability and legal protection in their living arrangements.  
+- **Accessibility** – Shelters should be designed to accommodate the needs of all individuals, including those with disabilities.  
 
 ### **[Pillar 2 - Inside The Shelter:](page3.md)**
 
-_People can live properly within their dwelling and perform their normal domestic functions. Defined as the percentage of households able to properly practice domestic functions_
+_A shelter should enable people to live properly within their dwelling and carry out normal domestic activities with dignity and comfort._  
 
-**Themes:**
+![image](https://github.com/user-attachments/assets/0b4babfb-b230-4c23-a560-9018e8afa347)
 
-- **Thermal Comfort (Clothing)** – Percentage of households having sufficient and appropriate quality clothing
-- **Energy** – Percentage of households having access to sufficient, safe, and affordable energy supply
-- **Cooking** – Percentage of households having sufficient and appropriate items for cooking
-- **Sleeping** – Percentage of households having sufficient and appropriate items for safe, healthy, and private sleeping
-- **Cleanliness (Hygiene)** – Percentage of households having sufficient and appropriate items to maintain the shelter clean
+**Themes:**  
+
+- **Thermal Comfort (Clothing)** – Households should have sufficient and appropriate clothing to maintain comfort.  
+- **Energy** – Households should have access to a safe, reliable, and affordable energy supply.  
+- **Cooking** – Households should have appropriate means to prepare and cook food.  
+- **Sleeping** – Households should have suitable arrangements for safe, healthy, and private rest.  
+- **Cleanliness (Hygiene)** – Households should have the necessary items to keep their living space clean and hygienic.  
+
 
 ### **[Pillar 3 - Outside The Shelter:](page4.md)** 
 
-_People have access to common services and community infrastructure for their dwelling. Defined as percentage of households with access to appropriate common services and infrastructure_
+_A shelter should be supported by access to essential services and communal infrastructure to ensure a safe and sustainable living environment._
 
-- **Access to Services and Resources** - Percentage of households with access to common services and resources
-- **Access to Communal Infrastructure** - Percentage of households with access to communal infrastructure
-- **Hazards and Risks** - Percentage of households exposed to hazards and risks
+![image](https://github.com/user-attachments/assets/c66c7b10-28d1-432b-9228-5dbd5524c439)
 
+**Themes:**  
+
+- **Access to Services and Resources** – Households should have access to essential services and resources needed for daily life.  
+- **Access to Communal Infrastructure** – Households should benefit from shared infrastructure that supports well-being and resilience.  
+- **Hazards and Risks** – Households should be protected from environmental and structural hazards that pose risks to safety and stability.  
 
 
 ## Scores / Phases
 
-Each pillar has a score from one to five, and each score refers to a phase, which can be defined as such:
+Each pillar is assigned a score from **one to five**, with each score corresponding to a specific phase, defined as follows:  
 
 ### **Phase 1 (None / Minimal):**
 
-**Household level:** Household lives in adequate dwellings*, can perform all typical, core domestic functions, and has adequate access to all community-level services and infrastructure
-
-**Area-level:** at least 80% of households are living in shelter conditions described above
+Households live in adequate dwellings, can carry out all essential domestic activities, and have sufficient access to community services and infrastructure.  
 
 ### **Phase 2 (Stressed):**
 
-**Household level:** Household lives in adequate dwellings* (with minor issues), can perform most typical, core domestic functions, and has adequate access to most community-level services and infrastructure
-
-**Area-level:** up to 20% of households are living in shelter conditions described in phases 2+3+4+5 (less than 20% are in conditions described in phases 3+4+5)
+Households live in generally adequate dwellings with minor issues, can perform most essential domestic activities, and have sufficient access to most community services and infrastructure.  
 
 ### **Phase 3 (Crisis):**
 
-**Household level:** Household lives in inadequate dwellings* (with significant issues), is unable to perform many typical, core domestic functions, and has limited adequate access to community-level services and infrastructure
-
-**Area-level:** at least 20% of households are living in shelter conditions described in phases 3+4+5 (less than 20% are in conditions described in phase 4+5)
+Households live in inadequate dwellings with significant issues, struggle to perform many essential domestic activities, and have limited access to community services and infrastructure.  
 
 ### **Phase 4 (Critical):**
 
-**Household level:** Household lives in inadequate dwellings* (with severe issues), is unable to perform most typical, core domestic functions, and has very limited adequate access to community-level services and infrastructure
-
-**Area-level:** at least 20% of households are living in shelter conditions described in phases 4+5 (less than 20% are in condition described in phase 5)
+Households live in inadequate dwellings with severe issues, are unable to perform most essential domestic activities, and have very limited access to community services and infrastructure.  
 
 ### **Phase 5 (Catastrophic):**
 
-**Household level:** Household has no or is living in severely damaged dwelling*, is unable to perform all typical, core domestic function, and has no access to community-level services and infrastructure
+Households have no shelter or are living in a severely damaged dwelling, are unable to perform any essential domestic activities, and have no access to community services and infrastructure.  
 
-**Area-level:** At least 20% of households are living in shelter conditions described above
+![image](https://github.com/user-attachments/assets/81131a87-fbb6-424b-aec3-674921da6617)
+
+### **Note:**
+
+**Adequate dwelling:** safe and secure structure that protects against external threats, health problems, thermal discomfort, natural elements. 
+
+As much as possible, the key principles of adequate housing are applied, as considered possible in humanitarian contexts with generally limited availability of data.
 
 
-*Adequate dwelling: safe and secure structure that protects against external threats, health problems, thermal discomfort, natural elements. 
+# Shelter Severity Classification Framework  
 
-**Note:** as much as possible, the key principles of adequate housing are applied, as considered possible in humanitarian contexts with generally limited availability of data.
-
-
-# Shelter Vulnerability and Needs Framework  
-
-Ultimately the SSC is divided into preparedness and reponse.
+Ultimately, the SSC is structured around two key phases: **preparedness** and **response**.  
 
 ![image](https://github.com/user-attachments/assets/80f80183-1a13-4e0d-8e30-633fba3346b1)
 

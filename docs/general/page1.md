@@ -68,47 +68,40 @@ _A shelter should be supported by access to essential services and communal infr
 
 ## Scores / Phases
 
-Each pillar has a score from one to five, and each score refers to a phase, which can be defined as such:
+Each pillar is assigned a score from **one to five**, with each score corresponding to a specific phase, defined as follows:  
 
 ### **Phase 1 (None / Minimal):**
 
-**Household level:** Household lives in adequate dwellings*, can perform all typical, core domestic functions, and has adequate access to all community-level services and infrastructure
-
-**Area-level:** at least 80% of households are living in shelter conditions described above
+Households live in adequate dwellings, can carry out all essential domestic activities, and have sufficient access to community services and infrastructure.  
 
 ### **Phase 2 (Stressed):**
 
-**Household level:** Household lives in adequate dwellings* (with minor issues), can perform most typical, core domestic functions, and has adequate access to most community-level services and infrastructure
-
-**Area-level:** up to 20% of households are living in shelter conditions described in phases 2+3+4+5 (less than 20% are in conditions described in phases 3+4+5)
+Households live in generally adequate dwellings with minor issues, can perform most essential domestic activities, and have sufficient access to most community services and infrastructure.  
 
 ### **Phase 3 (Crisis):**
 
-**Household level:** Household lives in inadequate dwellings* (with significant issues), is unable to perform many typical, core domestic functions, and has limited adequate access to community-level services and infrastructure
-
-**Area-level:** at least 20% of households are living in shelter conditions described in phases 3+4+5 (less than 20% are in conditions described in phase 4+5)
+Households live in inadequate dwellings with significant issues, struggle to perform many essential domestic activities, and have limited access to community services and infrastructure.  
 
 ### **Phase 4 (Critical):**
 
-**Household level:** Household lives in inadequate dwellings* (with severe issues), is unable to perform most typical, core domestic functions, and has very limited adequate access to community-level services and infrastructure
-
-**Area-level:** at least 20% of households are living in shelter conditions described in phases 4+5 (less than 20% are in condition described in phase 5)
+Households live in inadequate dwellings with severe issues, are unable to perform most essential domestic activities, and have very limited access to community services and infrastructure.  
 
 ### **Phase 5 (Catastrophic):**
 
-**Household level:** Household has no or is living in severely damaged dwelling*, is unable to perform all typical, core domestic function, and has no access to community-level services and infrastructure
+Households have no shelter or are living in a severely damaged dwelling, are unable to perform any essential domestic activities, and have no access to community services and infrastructure.  
 
-**Area-level:** At least 20% of households are living in shelter conditions described above
+![image](https://github.com/user-attachments/assets/81131a87-fbb6-424b-aec3-674921da6617)
+
+### **Note:**
+
+**Adequate dwelling:** safe and secure structure that protects against external threats, health problems, thermal discomfort, natural elements. 
+
+As much as possible, the key principles of adequate housing are applied, as considered possible in humanitarian contexts with generally limited availability of data.
 
 
-*Adequate dwelling: safe and secure structure that protects against external threats, health problems, thermal discomfort, natural elements. 
+# Shelter Severity Classification Framework  
 
-**Note:** as much as possible, the key principles of adequate housing are applied, as considered possible in humanitarian contexts with generally limited availability of data.
-
-
-# Shelter Vulnerability and Needs Framework  
-
-Ultimately the SSC is divided into preparedness and reponse.
+Ultimately, the SSC is structured around two key phases: **preparedness** and **response**.  
 
 ![image](https://github.com/user-attachments/assets/80f80183-1a13-4e0d-8e30-633fba3346b1)
 

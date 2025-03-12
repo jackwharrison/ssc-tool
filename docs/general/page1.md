@@ -5,31 +5,38 @@ The SSC, or Shelter Severity Classification system, streamlines analysis by capt
 ![image](https://github.com/user-attachments/assets/913d6def-54b2-4eb8-9426-3e55e2bca06b)
 
 
-## What do we need from the SSC?
+## What We Need from the SSC
 
-We need to be able to effectively answer the following questions in the aftermath of an impact:
+The SSC must deliver clear, actionable insights to guide response efforts after an impact. It should help answer these critical questions:
 
-1. Prioritisation and targeting - where and who should we target?
-2. What interventions are most appropriate?
-3. Are we having a positive impact?
+- **Prioritisation and targeting** – Where should we focus our efforts, and who is most in need?  
+- **Appropriate interventions** – What are the most suitable response actions?  
+- **Measuring impact** – Are our interventions making a positive difference?  
 
-## How is the SSC made?
+![image](https://github.com/user-attachments/assets/c78ff126-f607-48a0-9a5a-1da2a0050a47)
 
-The primary output of the SSC is the overall shelter severity indicator, which is scored from one to five, with one being the least vulnerable, and five being the most vulnerable. This indicator tries to answer the following: can the household live with dignity and security of tenure in an adequate dwelling with access to community-level services and infrastructure.
+## How the SSC is Made
 
-To answer that, we have divided the components of a shelter into three pillars.
+The SSC produces an **overall shelter severity indicator**, scored from **one to five**—with **one** representing the least vulnerable and **five** the most vulnerable. This indicator seeks to answer a fundamental question:  
+
+**Can the household live with dignity and security of tenure in an adequate dwelling with access to community-level services and infrastructure?**  
+
+To assess this, we break down shelter conditions into **three pillars**.  
+
 
 ### **[Pillar 1 - The Shelter:](page2.md)** 
-_The structure itself is an enclosed living space that protects from external threats. Defined as the percentage of households living in safe and dignified dwellings (structure that protects them against external threats, health problems, weather and natural hazards)_
 
-**Themes:**
+_A shelter must be an enclosed living space that protects occupants from external threats, ensuring safety, dignity, and well-being. It should provide protection against health risks, adverse weather, and natural hazards._
 
-- **Physical Safety** - Percentage of households living in safe and secure shelters
-- **Overcrowding and privacy** - Percentage of households living with sufficient space and privacy in their shelters
-- **Habitability and Health** - Percentage of households living in shelters providing thermal comfort and healthy environment
-- **Security of Tenure** - Percentage of households living with security of tenure
-- **Accessibility** - Percentage of households living in shelters meeting accessibility standards
+![image](https://github.com/user-attachments/assets/9cc86ab2-2ad4-42a6-b593-7c78386479ec)
 
+**Themes:**  
+
+- **Physical Safety** – Shelters should offer a secure and protective environment.  
+- **Overcrowding and Privacy** – Shelters should provide adequate space and privacy for households.  
+- **Habitability and Health** – Shelters should ensure thermal comfort and a healthy living environment.  
+- **Security of Tenure** – Households should have stability and legal protection in their living arrangements.  
+- **Accessibility** – Shelters should be designed to accommodate the needs of all individuals, including those with disabilities.  
 
 ### **[Pillar 2 - Inside The Shelter:](page3.md)**
 

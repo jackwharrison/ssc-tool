@@ -40,24 +40,30 @@ _A shelter must be an enclosed living space that protects occupants from externa
 
 ### **[Pillar 2 - Inside The Shelter:](page3.md)**
 
-_People can live properly within their dwelling and perform their normal domestic functions. Defined as the percentage of households able to properly practice domestic functions_
+_A shelter should enable people to live properly within their dwelling and carry out normal domestic activities with dignity and comfort._  
 
-**Themes:**
+![image](https://github.com/user-attachments/assets/0b4babfb-b230-4c23-a560-9018e8afa347)
 
-- **Thermal Comfort (Clothing)** – Percentage of households having sufficient and appropriate quality clothing
-- **Energy** – Percentage of households having access to sufficient, safe, and affordable energy supply
-- **Cooking** – Percentage of households having sufficient and appropriate items for cooking
-- **Sleeping** – Percentage of households having sufficient and appropriate items for safe, healthy, and private sleeping
-- **Cleanliness (Hygiene)** – Percentage of households having sufficient and appropriate items to maintain the shelter clean
+**Themes:**  
+
+- **Thermal Comfort (Clothing)** – Households should have sufficient and appropriate clothing to maintain comfort.  
+- **Energy** – Households should have access to a safe, reliable, and affordable energy supply.  
+- **Cooking** – Households should have appropriate means to prepare and cook food.  
+- **Sleeping** – Households should have suitable arrangements for safe, healthy, and private rest.  
+- **Cleanliness (Hygiene)** – Households should have the necessary items to keep their living space clean and hygienic.  
+
 
 ### **[Pillar 3 - Outside The Shelter:](page4.md)** 
 
-_People have access to common services and community infrastructure for their dwelling. Defined as percentage of households with access to appropriate common services and infrastructure_
+_A shelter should be supported by access to essential services and communal infrastructure to ensure a safe and sustainable living environment._
 
-- **Access to Services and Resources** - Percentage of households with access to common services and resources
-- **Access to Communal Infrastructure** - Percentage of households with access to communal infrastructure
-- **Hazards and Risks** - Percentage of households exposed to hazards and risks
+![image](https://github.com/user-attachments/assets/c66c7b10-28d1-432b-9228-5dbd5524c439)
 
+**Themes:**  
+
+- **Access to Services and Resources** – Households should have access to essential services and resources needed for daily life.  
+- **Access to Communal Infrastructure** – Households should benefit from shared infrastructure that supports well-being and resilience.  
+- **Hazards and Risks** – Households should be protected from environmental and structural hazards that pose risks to safety and stability.  
 
 
 ## Scores / Phases

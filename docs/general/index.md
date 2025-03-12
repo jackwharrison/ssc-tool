@@ -92,9 +92,9 @@ Households have no shelter or are living in a severely damaged dwelling, are una
 
 ![image](https://github.com/user-attachments/assets/81131a87-fbb6-424b-aec3-674921da6617)
 
-### **Note:**
+**Note:**
 
-**Adequate dwelling:** safe and secure structure that protects against external threats, health problems, thermal discomfort, natural elements. 
+Adequate dwelling: safe and secure structure that protects against external threats, health problems, thermal discomfort, natural elements. 
 
 As much as possible, the key principles of adequate housing are applied, as considered possible in humanitarian contexts with generally limited availability of data.
 
@@ -103,33 +103,20 @@ As much as possible, the key principles of adequate housing are applied, as cons
 
 Ultimately, the SSC is structured around two key phases: **preparedness** and **response**.  
 
-![image](https://github.com/user-attachments/assets/80f80183-1a13-4e0d-8e30-633fba3346b1)
+![image](https://github.com/user-attachments/assets/5297e96f-d440-4f11-8095-ba13c5e523a6)
 
- 
+## Preparedness  
 
-This diagram illustrates a framework for assessing **shelter vulnerability** and **needs** in both **preparedness** and **response** phases. It highlights how vulnerabilities are adjusted before and after a disaster event, integrating predictive modeling and scenario-based hazard assessments.  
+The **Shelter Severity Classification (SSC) Framework** follows a cyclical process designed to enhance both preparedness and response. It begins by establishing a **baseline** using existing data, structured around the three pillars to generate an overall **Shelter Severity Score**. To refine this, additional vulnerability data—factors beyond the pillars, such as poverty rates—is incorporated to produce an **Adjusted SSC Score**.  
 
-## **Preparedness Phase** (Left Side – Purple Border)  
-This phase focuses on evaluating **pre-disaster shelter vulnerability** based on:  
-- **Three Pillars:**  
-  - **Pillar 1** – Safe and dignified dwellings.  
-  - **Pillar 2** – Living conditions and ability to practice domestic functions.  
-  - **Pillar 3** – Access to services and infrastructure.  
-- **General Vulnerabilities and Capacities** – Broader contextual factors influencing shelter conditions.  
-- **Pre-disaster Shelter Vulnerability** is calculated and then **adjusted** based on these factors.  
-- The **adjusted pre-disaster shelter vulnerability** informs hazard impact assessments, considering multiple **hazards (Hazard 1, Hazard 2, Hazard 3)** and resulting **scenarios (Scenario 1, Scenario 2, Scenario 3).**  
+With this adjusted score, we then analyze **region-specific hazards** to model various **likely post-impact scenarios**. These scenarios help anticipate shelter needs and inform strategic planning before a disaster occurs.  
 
-## **Response Phase** (Right Side – Red Border)  
-After a disaster **event** occurs, the framework shifts to evaluating **post-disaster shelter needs** by:  
-- Using **predictive modeling** to estimate potential impacts.  
-- Considering **other vulnerabilities and capacities** that emerge post-disaster.  
-- Reassessing shelter needs using the same **three pillars (Pillar 1, Pillar 2, Pillar 3).**  
-- Calculating **Post-disaster Shelter Needs**, which are then **adjusted** based on new conditions.  
+Once an event occurs, the process transitions into the **response phase**.  
 
-## **Key Concepts**  
-- **SSC (Shelter Severity Classification)** – Used in both preparedness and response to assess vulnerability and needs.  
-- **Hazard Scenarios** – Different hazard events lead to different impact scenarios.  
-- **Predictive Modeling** – Helps estimate post-disaster conditions before actual assessments occur.  
-- **Event Trigger** – Marks the transition from preparedness to response when a disaster occurs.  
+## Response  
 
-This structured approach allows for a comprehensive understanding of shelter vulnerabilities and ensures effective planning before and after a disaster.
+In the immediate aftermath of an event, **impact data** is the primary source of information. This includes event-specific details such as a community’s proximity to a storm’s path or the intensity of an earthquake’s tremors. By comparing this data with the pre-established **scenarios**, predictive modeling can be used to estimate which communities are most affected.  
+
+As more **real-time data** becomes available, the SSC framework is **refined and updated** to better reflect on-the-ground conditions. This adjusted classification then guides **humanitarian interventions**, ensuring resources are directed where they are needed most. Additionally, hazard assessments can be revised to account for new risks emerging post-disaster.  
+
+At the conclusion of the response phase, the updated framework is **integrated back into preparedness planning**, ensuring that lessons learned from the current event contribute to stronger, more effective disaster readiness for the future.  

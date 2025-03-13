@@ -23,6 +23,7 @@ The SSC produces an **overall shelter severity indicator**, scored from **one to
 
 To assess this, we break down shelter conditions into **three pillars**.  
 
+## Pillars
 
 ### **[Pillar 1 - The Shelter:](page2.md)** 
 
@@ -65,7 +66,6 @@ _A shelter should be supported by access to essential services and communal infr
 - **Access to Communal Infrastructure** – Households should benefit from shared infrastructure that supports well-being and resilience.  
 - **Hazards and Risks** – Households should be protected from environmental and structural hazards that pose risks to safety and stability.  
 
-
 ## Scores / Phases
 
 Each pillar is assigned a score from **one to five**, with each score corresponding to a specific phase, defined as follows:  
@@ -98,6 +98,15 @@ Adequate dwelling: safe and secure structure that protects against external thre
 
 As much as possible, the key principles of adequate housing are applied, as considered possible in humanitarian contexts with generally limited availability of data.
 
+## Other Vulnerabilities and Overall Scoring
+
+The scores from these three pillars combine to determine the **Overall Shelter Severity Score**, which is calculated using a **decision tree** method. Each unique combination of pillar scores corresponds to a specific overall score. More details on the default decision tree used by the Global Shelter Cluster can be found **[here](page5.md)**.
+
+In addition to the three pillars, the SSC framework also considers **baseline vulnerability** factors. These factors can heighten a household’s overall vulnerability but do not directly fit within any of the three pillars. Examples include poverty rate and literacy rate—while they do not pertain directly to shelter or settlement conditions, a household without financial support is likely to be more vulnerable than one with access to resources.
+
+If a community exceeds a certain vulnerability threshold, it is classified as vulnerable. 
+
+When combined with the **Overall Shelter Severity Score**, this classification results in a new metric: the **Adjusted Severity Score**. If a community is deemed vulnerable, the **Adjusted Severity Score** will be _higher_ than the **Overall Shelter Severity Score**.
 
 # Shelter Severity Classification Framework  
 

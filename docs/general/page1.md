@@ -108,13 +108,13 @@ If a community exceeds a certain vulnerability threshold, it is classified as vu
 
 When combined with the **Overall Shelter Severity Score**, this classification results in a new metric: the **Adjusted Severity Score**. If a community is deemed vulnerable, the **Adjusted Severity Score** will be _higher_ than the **Overall Shelter Severity Score**.
 
-# Shelter Severity Classification Framework  
+## Shelter Severity Classification Framework  
 
 Ultimately, the SSC is structured around two key phases: **preparedness** and **response**.  
 
 ![image](https://github.com/user-attachments/assets/5297e96f-d440-4f11-8095-ba13c5e523a6)
 
-## Preparedness  
+### Preparedness  
 
 The **Shelter Severity Classification (SSC) Framework** follows a cyclical process designed to enhance both preparedness and response. It begins by establishing a **baseline** using existing data, structured around the three pillars to generate an overall **Shelter Severity Score**. To refine this, additional vulnerability data—factors beyond the pillars, such as poverty rates—is incorporated to produce an **Adjusted SSC Score**.  
 
@@ -122,7 +122,7 @@ With this adjusted score, we then analyze **region-specific hazards** to model v
 
 Once an event occurs, the process transitions into the **response phase**.  
 
-## Response  
+### Response  
 
 In the immediate aftermath of an event, **impact data** is the primary source of information. This includes event-specific details such as a community’s proximity to a storm’s path or the intensity of an earthquake’s tremors. By comparing this data with the pre-established **scenarios**, predictive modeling can be used to estimate which communities are most affected.  
 

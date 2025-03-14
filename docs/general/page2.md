@@ -32,13 +32,29 @@ _Level of safety, and security provided by the shelter (defects, issues, damage,
 ## 1.2 Overcrowding and Privacy 
 _Level of covered living and facilities space and privacy provided by the shelter (overcrowding, partitions)_
 
-- Sufficient space and privacy
-- No privacy
-- No privacy AND overcrowded (> 3 people per room or < 3.5m2 per person)
+![image](https://github.com/user-attachments/assets/5d62b473-ede1-49e6-a74a-b92840c18bd9)
 
-_Example Indicators:_ Population density, average floor space per inhabitant
+### Categories & Default Scores
 
-#### **Habitability and Health:**  Level of thermal comfort and a healthy environment provided by the shelter.  
+- Sufficient space and privacy — Score: **0**
+- No privacy — Score: **0.5**
+- No privacy AND overcrowded (> 3 people per room or < 3.5m2 per person) — Score: **1**
+
+### Example Indicators:
+- Average covered living space per person (m²)
+- Average number of people per room
+- Percentage of shelters with internal partitions separating living/sleeping areas
+
+### Potential Humanitarian Interventions:
+- Extension of Existing Shelters
+- Provision of Partitioning Kits
+- Use of Community Shelters for Overflow
+
+
+## 1.3 Habitability and Health
+_Level of thermal comfort and a healthy environment provided by the shelter_  
+
+
 - Provides protection from the elements, thermal comfort, and a healthy environment.  
 - Lack of ventilation, and/or natural light, and/or exposure to vectors.  
 - Does not protect against the weather OR provide thermal comfort.  

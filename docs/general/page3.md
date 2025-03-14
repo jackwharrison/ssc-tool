@@ -1,4 +1,4 @@
-# **Pillar 2:** - Definitions, and example indicators and interventions
+# **Pillar 2:** Inside The Shelter
 
 ![image](https://github.com/user-attachments/assets/0b4babfb-b230-4c23-a560-9018e8afa347)
 
@@ -7,7 +7,7 @@ Each pillar is structured into themes and sub-themes, with each theme further ca
 
 
 
-## 2.1 Clothing  
+## **2.1 Clothing**  
 _People have sufficient and appropriate quality clothing_
 
 ![image](https://github.com/user-attachments/assets/7f496000-0c6d-400d-88c4-f7303dd57bc3)
@@ -28,11 +28,11 @@ _People have sufficient and appropriate quality clothing_
 - Weather-Specific Clothing Packages
 - Clothing Vouchers
 
-## 2.2 Energy  
+## **2.2 Energy**  
 
 ![image](https://github.com/user-attachments/assets/4df7451b-4771-4e7d-8971-a4808f712158)
 
-### 2.2.1 Thermal Comfort
+### **2.2.1 Thermal Comfort**
 _People have access to sufficient, safe, and affordable energy supply to maintain thermal comfort_
 
 #### Categories & Default Scores
@@ -46,7 +46,7 @@ _People have access to sufficient, safe, and affordable energy supply to maintai
 - Indoor temperature regulation.  
 
 
-### 2.2.2 Lighting
+### **2.2.2 Lighting**
 _People have access to sufficient, safe, and affordable energy supply to provide lighting_  
 
 #### Categories & Default Scores
@@ -59,7 +59,7 @@ _People have access to sufficient, safe, and affordable energy supply to provide
 - Use of solar lamps or alternative lighting sources
 - Availability of electricity for lighting during the dark hours
 
-### 2.2.3 Cooking Fuel
+### **2.2.3 Cooking Fuel**
 _People have access to sufficient, safe, and affordable energy supply to prepare food_
 
 #### Categories & Default Scores
@@ -73,7 +73,7 @@ _People have access to sufficient, safe, and affordable energy supply to prepare
 - Percentage of households with functioning cooking stoves
 - Reliance on unsafe cooking methods  
 
-### 2.2.4 Communications and Livelihoods
+### **2.2.4 Communications and Livelihoods**
 _People have access to sufficient, safe, and affordable energy supply to provide communication and support livelihood_
 
 #### Categories & Default Scores
@@ -94,11 +94,11 @@ _People have access to sufficient, safe, and affordable energy supply to provide
 - Installation of community-based charging stations and solar-powered internet hubs
 
 
-## 2.3 Cooking  
+## **2.3 Cooking**  
 
 ![image](https://github.com/user-attachments/assets/2d7b9543-373b-40a7-8da7-af21463c8495)
 
-### 2.3.1 Food Storage
+### **2.3.1 Food Storage**
 _People have sufficient and appropriate items to store food and water_
 
 #### Categories & Default Scores  
@@ -111,7 +111,7 @@ _People have sufficient and appropriate items to store food and water_
 - Availability of food storage containers
 - Percentage of households with access to clean water storage
 
-### 2.3.2 Cooking Items
+### **2.3.2 Cooking Items**
 _People have sufficient and appropriate items to prepare and eat food_
 
 #### Categories & Default Scores
@@ -129,7 +129,7 @@ _People have sufficient and appropriate items to prepare and eat food_
 - Provision of culturally appropriate cooking kits
 - Distribution of airtight, durable food and water storage containers
 
-## 2.4 Sleeping  
+## **2.4 Sleeping**  
 _People have sufficient and appropriate items for safe, healthy, and private sleeping_
 
 ![image](https://github.com/user-attachments/assets/353c5fea-2f3e-4555-95a6-f22d2a21f386)
@@ -150,10 +150,10 @@ _People have sufficient and appropriate items for safe, healthy, and private sle
 - Construct privacy partitions in shared shelters to improve dignity and safety.  
 - Support local markets to provide affordable and accessible sleeping materials.  
 
-## 2.5 Cleanliness  
+## **2.5 Cleanliness**  
 
 
-### 2.5.1 Cleaning Items
+### **2.5.1 Cleaning Items**
 _People have sufficient and appropriate items to maintain cleanliness in the shelter_ 
 
 ![image](https://github.com/user-attachments/assets/939f315e-a847-468e-a3e4-a1b8fde2196e)
@@ -169,7 +169,7 @@ _People have sufficient and appropriate items to maintain cleanliness in the she
 - Presence of drainage and sanitation facilities
 - Frequency of cleaning activities
 
-### 2.5.2 Waste Storage
+### **2.5.2 Waste Storage**
 
 #### People have sufficient and appropriate items to adequately store waste  
 - **Available**  

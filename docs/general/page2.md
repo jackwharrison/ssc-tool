@@ -1,4 +1,4 @@
-# **Pillar 1 Themes** - Definitions, and example indicators and interventions
+# **Pillar 1 Themes** - The Shelter
 
 ![image](https://github.com/user-attachments/assets/9cc86ab2-2ad4-42a6-b593-7c78386479ec)
 
@@ -6,7 +6,7 @@ Each pillar is structured into themes and sub-themes, with each theme further ca
 
 
 
-## 1.1 Physical Safety
+## **1.1 Physical Safety**
 _Level of safety, and security provided by the shelter (defects, issues, damage, location / environment)_
 
 ![image](https://github.com/user-attachments/assets/1f18c17f-d04a-44a4-8729-043f655fc86c)
@@ -29,7 +29,7 @@ _Level of safety, and security provided by the shelter (defects, issues, damage,
 - Reconstruction of Disaster-Resilient Homes
 
 
-## 1.2 Overcrowding and Privacy 
+## **1.2 Overcrowding and Privacy** 
 _Level of covered living and facilities space and privacy provided by the shelter (overcrowding, partitions)_
 
 ![image](https://github.com/user-attachments/assets/5d62b473-ede1-49e6-a74a-b92840c18bd9)
@@ -51,7 +51,7 @@ _Level of covered living and facilities space and privacy provided by the shelte
 - Use of Community Shelters for Overflow
 
 
-## 1.3 Habitability and Health
+## **1.3 Habitability and Health**
 _Level of thermal comfort and a healthy environment provided by the shelter_  
 
 ![image](https://github.com/user-attachments/assets/25626cea-4e96-4d84-8ed6-2b92a238f56f)
@@ -73,7 +73,7 @@ _Level of thermal comfort and a healthy environment provided by the shelter_
 - Provide insulation materials to regulate indoor temperature.  
 
 
-## 1.4 Security of Tenure
+## **1.4 Security of Tenure**
 _Level of security of tenure_
 
 ![image](https://github.com/user-attachments/assets/ad5a7007-81e0-48a1-add4-922521fcc7c6)
@@ -94,7 +94,7 @@ _Level of security of tenure_
 - Advocate for protection against forced evictions.  
 - Work with local authorities to formalize tenure rights.  
 
-## 1.5 Accessibility
+## **1.5 Accessibility**
 _Level of accessibility according to the needs_ 
 
 ![image](https://github.com/user-attachments/assets/c2e67f75-9682-48bd-ac97-3e31b7ee4db0)

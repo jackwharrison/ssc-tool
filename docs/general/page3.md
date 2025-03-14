@@ -36,6 +36,7 @@ _People have sufficient and appropriate quality clothing_
 _People have access to sufficient, safe, and affordable energy supply to maintain thermal comfort_
 
 #### Categories & Default Scores
+
 - **Available** — Score: **0**  
 - **Partially available** — Score: **1**  
 - **Not available** — Score: **2**  
@@ -49,6 +50,7 @@ _People have access to sufficient, safe, and affordable energy supply to maintai
 _People have access to sufficient, safe, and affordable energy supply to provide lighting_  
 
 #### Categories & Default Scores
+
 - **Available** — Score: **0**  
 - **Partially available** — Score: **0.5**  
 - **Not available** — Score: **1**  
@@ -61,6 +63,7 @@ _People have access to sufficient, safe, and affordable energy supply to provide
 _People have access to sufficient, safe, and affordable energy supply to prepare food_
 
 #### Categories & Default Scores
+
 - **Available** — Score: **0**  
 - **Partially available** — Score: **1**  
 - **Not available** — Score: **2** 
@@ -74,6 +77,7 @@ _People have access to sufficient, safe, and affordable energy supply to prepare
 _People have access to sufficient, safe, and affordable energy supply to provide communication and support livelihood_
 
 #### Categories & Default Scores
+
 - **Available** — Score: **0**  
 - **Partially available** — Score: **0.5**  
 - **Not available** — Score: **1**  
@@ -98,6 +102,7 @@ _People have access to sufficient, safe, and affordable energy supply to provide
 _People have sufficient and appropriate items to store food and water_
 
 #### Categories & Default Scores  
+
 - **Available** — Score: **0**  
 - **Partially available** — Score: **0.5**  
 - **Not available** — Score: **1**  
@@ -106,10 +111,11 @@ _People have sufficient and appropriate items to store food and water_
 - Availability of food storage containers
 - Percentage of households with access to clean water storage
 
- ### 2.3.2 Cooking Items
+### 2.3.2 Cooking Items
 _People have sufficient and appropriate items to prepare and eat food_
 
 #### Categories & Default Scores
+
 - **Available** — Score: **0**  
 - **Partially available** — Score: **1**  
 - **Not available** — Score: **2** 
@@ -119,13 +125,30 @@ _People have sufficient and appropriate items to prepare and eat food_
 - Presence of communal or private kitchens
 - Availability of eating utensils
 
-## 2.4 Sleeping  
-#### People have sufficient and appropriate items for safe, healthy, and private sleeping  
-- **Available**  
-- **Partially available**  
-- **Not available**  
+### Potential Humanitarian Interventions:
+- Provision of culturally appropriate cooking kits
+- Distribution of airtight, durable food and water storage containers
 
-_Example Indicators:_ Number of sleeping spaces per person, availability of bedding materials, presence of privacy partitions.  
+## 2.4 Sleeping  
+_People have sufficient and appropriate items for safe, healthy, and private sleeping_
+
+![image](https://github.com/user-attachments/assets/353c5fea-2f3e-4555-95a6-f22d2a21f386)
+
+### Categories & Default Scores
+
+- **Available** — Score: **0**  
+- **Partially available** — Score: **1**  
+- **Not available** — Score: **2** 
+
+### Example Indicators:
+- Number of sleeping spaces per person
+- Availability of bedding materials
+- Presence of privacy partitions
+
+### Potential Humanitarian Interventions:
+- Distribute mattresses, sleeping mats, and bedding materials.  
+- Construct privacy partitions in shared shelters to improve dignity and safety.  
+- Support local markets to provide affordable and accessible sleeping materials.  
 
 ### 5. Cleanliness  
 #### People have sufficient and appropriate items to maintain the shelter clean  

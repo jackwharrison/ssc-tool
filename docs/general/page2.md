@@ -76,47 +76,36 @@ _Level of thermal comfort and a healthy environment provided by the shelter_
 ## 1.4 Security of Tenure
 _Level of security of tenure_
 
-- Good enough security of tenure.  
-- Low/medium risk.  
-- High risk.  
+![image](https://github.com/user-attachments/assets/ad5a7007-81e0-48a1-add4-922521fcc7c6)
 
- _Example Indicators:_ Land ownership documents, eviction risk, legal recognition of tenure rights.  
+### Categories & Default Scores
 
-#### **Accessibility:** Level of accessibility according to the needs.  
+- **Good enough security of tenure** — Score: **0**  
+- **Low/medium risk** — Score: **0.5**  
+- **High risk** — Score: **1**  
+
+### Example Indicators:
+- Land ownership documents
+- Eviction risk
+- Legal recognition of tenure rights  
+
+### Potential Humanitarian Interventions:
+- Facilitate legal support for securing land tenure.  
+- Advocate for protection against forced evictions.  
+- Work with local authorities to formalize tenure rights.  
+
+## 1.4 Accessibility
+_Level of accessibility according to the needs_ 
+
+### Categories & Default Scores
 - Accessible.  
 - Partially accessible.  
 - Not accessible.  
 - Not applicable.  
 
- _Example Indicators:_ Proximity to essential services (healthcare, education, markets), infrastructure for persons with disabilities.  
+### Example Indicators:
 
-
-## Possible Humanitarian Interventions  
-
-### 1. Physical Safety  
-- Reinforce or retrofit shelters to improve structural integrity.  
-- Provide temporary or transitional shelters in safe locations.  
-- Conduct risk assessments for hazards like flooding or earthquakes.  
-- Establish community-based safety monitoring and training.  
-
-### 2. Overcrowding and Privacy  
-- Distribute materials for internal partitions to improve privacy.  
-- Expand shelter space or relocate overcrowded populations.  
-- Implement policies to regulate occupancy limits per shelter.  
-- Construct communal spaces to reduce indoor congestion.  
-
-### 3. Habitability and Health  
-- Improve ventilation, lighting, and drainage in shelters.  
-- Distribute mosquito nets and pest control supplies.  
-- Provide insulation materials to regulate indoor temperature.  
-
-### 4. Security of Tenure  
-- Facilitate legal support for securing land tenure.  
-- Advocate for protection against forced evictions.  
-- Work with local authorities to formalize tenure rights.  
-- Establish grievance mechanisms for housing disputes.  
-
-### 5. Accessibility  
+### Potential Humanitarian Interventions:
 - Improve roads and pathways to key services.  
 - Provide ramps and modifications for persons with disabilities.  
 - Ensure safe and inclusive access to WASH facilities.  

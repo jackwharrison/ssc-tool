@@ -94,20 +94,25 @@ _Level of security of tenure_
 - Advocate for protection against forced evictions.  
 - Work with local authorities to formalize tenure rights.  
 
-## 1.4 Accessibility
+## 1.5 Accessibility
 _Level of accessibility according to the needs_ 
 
+![image](https://github.com/user-attachments/assets/c2e67f75-9682-48bd-ac97-3e31b7ee4db0)
+
 ### Categories & Default Scores
-- Accessible.  
-- Partially accessible.  
-- Not accessible.  
-- Not applicable.  
+- **Accessible** — Score: **0** 
+- **Partially accessible** — Score: **0.5**   
+- **Not accessible** — Score: **1**   
+- **Not applicable** — Score: **0** 
 
 ### Example Indicators:
+- Percentage of shelters with adequate interior space for wheelchair users
+- Percentage of shelters with wide doorways (≥90 cm) to accommodate wheelchairs
+- Percentage of shelters with step-free access or ramps
 
 ### Potential Humanitarian Interventions:
-- Improve roads and pathways to key services.  
-- Provide ramps and modifications for persons with disabilities.  
-- Ensure safe and inclusive access to WASH facilities.  
-- Advocate for policies ensuring equitable access to services.  
+- Provision of Ramp Kits & Handrails
+- Modification of Shelter Doorways & Interiors
+- Installation of Raised Sleeping Platforms
+
 

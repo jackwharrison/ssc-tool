@@ -1,16 +1,22 @@
-# **Pillar 2:** People can live properly in their dwellings
+# **Pillar 2:** - Definitions, and example indicators and interventions
 
-![image](https://github.com/user-attachments/assets/cee2748c-d929-4429-b6d1-b832935793ee)
+![image](https://github.com/user-attachments/assets/0b4babfb-b230-4c23-a560-9018e8afa347)
+
 
 Each pillar is structured into themes and sub-themes, with each theme further categorized to represent varying levels of severity.
 
-## Pillar 2 Themes
 
-### 1. Clothing  
-#### People have sufficient and appropriate quality clothing  
-- **Appropriate to climate**  
-- **Partially appropriate to climate**  
-- **Not appropriate to climate**  
+
+## 2.1 Clothing  
+_People have sufficient and appropriate quality clothing_
+
+![image](https://github.com/user-attachments/assets/e3d733ce-7932-46a6-8673-fe19d3d2e5ab)
+
+### Categories & Default Scores
+
+- **Appropriate to climate** — Score: **0**
+- **Partially appropriate to climate** — Score: **0**  
+- **Not appropriate to climate** — Score: **0**  
 
 _Example Indicators:_ Availability of seasonal clothing, percentage of population with adequate clothing, distribution of clothing materials.  
 

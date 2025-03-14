@@ -170,11 +170,13 @@ _People have sufficient and appropriate items to maintain cleanliness in the she
 - Frequency of cleaning activities
 
 ### **2.5.2 Waste Storage**
+_People have sufficient and appropriate items to adequately store waste_ 
 
-#### People have sufficient and appropriate items to adequately store waste  
-- **Available**  
-- **Partially available**  
-- **Not available**  
+#### Categories & Default Scores  
+
+- **Available** — Score: **0**  
+- **Partially available** — Score: **0.5**  
+- **Not available** — Score: **1**  
   
 #### Example Indicators:
 - Availability of waste bins

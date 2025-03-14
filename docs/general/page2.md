@@ -13,12 +13,12 @@ _Level of safety, and security provided by the shelter (defects, issues, damage,
 
 ### Categories & Default Scores
 
-| Category                      | Score |
-|--------------------------------|-------|
-| Safe                           | 0     |
-| Unsafe: Risky (can affect goods/property or can affect mental/physical health) | 0.5   |
-| Unsafe: Dangerous (does not provide physical protection, or can pose physical threats) | 1     |
-| Unsafe: Life Threatening       | 5     |
+| Category | Score |
+|:---------|:------|
+| Safe | 0 |
+| Unsafe: Risky <br> _(affects property or mental/physical health)_ | 0.5 |
+| Unsafe: Dangerous <br> _(no physical protection, potential threats)_ | 1 |
+| Unsafe: Life Threatening | 5 |
 
 
 ### Example Indicators:

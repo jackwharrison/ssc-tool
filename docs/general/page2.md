@@ -73,7 +73,9 @@ _Level of thermal comfort and a healthy environment provided by the shelter_
 - Provide insulation materials to regulate indoor temperature.  
 
 
-#### **Security of Tenure:** Level of security of tenure.  
+## 1.4 Security of Tenure
+_Level of security of tenure_
+
 - Good enough security of tenure.  
 - Low/medium risk.  
 - High risk.  

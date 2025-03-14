@@ -1,4 +1,4 @@
-# **Pillar 1 Themes** - The Shelter
+# **Pillar 1** - The Shelter
 
 ![image](https://github.com/user-attachments/assets/9cc86ab2-2ad4-42a6-b593-7c78386479ec)
 

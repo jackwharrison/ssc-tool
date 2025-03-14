@@ -156,6 +156,8 @@ _People have sufficient and appropriate items for safe, healthy, and private sle
 ### 2.5.1 Cleaning Items
 _People have sufficient and appropriate items to maintain cleanliness in the shelter_ 
 
+![image](https://github.com/user-attachments/assets/939f315e-a847-468e-a3e4-a1b8fde2196e)
+
 #### Categories & Default Scores  
 
 - **Available** — Score: **0**  
@@ -173,12 +175,13 @@ _People have sufficient and appropriate items to maintain cleanliness in the she
 - **Available**  
 - **Partially available**  
 - **Not available**  
+  
+#### Example Indicators:
+- Availability of waste bins
+- Presence of waste collection services
+- Frequency of waste disposal
 
-_Example Indicators:_ Availability of waste bins, presence of waste collection services, frequency of waste disposal.  
-
-
-
-### 5. Cleanliness  
+ ### Potential Humanitarian Interventions:
 - Distribute hygiene and cleaning kits, including soap, detergent, and sanitation tools.  
 - Set up waste management systems, including collection points and composting options.  
 - Implement awareness campaigns on household and community cleanliness practices.  

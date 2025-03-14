@@ -1,105 +1,135 @@
-# **Pillar 3:** People have appropriate access to common services and infrastucture from their dwelling 
+# **Pillar 3:** Outside The Shelter
 
-![image](https://github.com/user-attachments/assets/49194a53-28e9-4bf8-be3e-d6bf352b040a)
+![image](https://github.com/user-attachments/assets/c66c7b10-28d1-432b-9228-5dbd5524c439)
 
-Each pillar is structured into themes and sub-themes, with each theme further categorized to represent varying levels of severity.
 
-## Pillar 3 Themes
+## **3.1 Access to Services and Resources**  
 
-### 1. Access to Services and Resources  
-#### General  
+### **3.1.0 General**
+_Access to general services and resources_
+
+#### Categories & Default Scores
+
 - **Available**  
 - **Not available**  
 
+
+
 _Example Indicators:_ Percentage of population with access to essential services, proximity to service centers, accessibility for vulnerable groups.  
 
-#### Water  
+### **3.1.1 Water**  
+
+#### Categories & Default Scores
+
 - **Available**  
 - **Not available**  
 
 _Example Indicators:_ Percentage of households with access to clean drinking water, functionality of water distribution systems, availability of alternative water sources.  
 
-#### Market  
+### **3.1.2 Market**  
+
+#### Categories & Default Scores
+
 - **Available**  
 - **Not available**  
 
 _Example Indicators:_ Presence of functional marketplaces, availability of essential goods, affordability of staple items.  
 
-#### Education  
-- **Available**  
-- **Not available**  
+### **3.1.3 Education**  
+
+#### Categories & Default Scores
+
+- **Available** — Score: **0**
+- **Not available** — Score: **0**  
 
 _Example Indicators:_ School enrollment rates, availability of educational facilities, teacher-to-student ratio.  
 
-#### Health  
+### Health  
+
+#### Categories & Default Scores
+
 - **Available**  
 - **Not available**  
 
 _Example Indicators:_ Number of health centers per 10,000 people, availability of medical staff, access to emergency care.  
 
-#### Transportation  
+### Transportation  
+
+#### Categories & Default Scores
+
 - **Available**  
 - **Not available**  
 
 _Example Indicators:_ Availability of public transport, quality of road infrastructure, travel time to key services.  
 
-#### Waste Management  
+### Waste Management  
+
+#### Categories & Default Scores
+
 - **Available**  
 - **Not available**  
 
 _Example Indicators:_ Percentage of waste collected and properly disposed of, presence of waste management services, access to recycling facilities.  
 
-#### Livelihood Opportunities  
+### Livelihood Opportunities  
+
+#### Categories & Default Scores
+
 - **Available**  
 - **Not available**  
 
 _Example Indicators:_ Employment rate, number of income-generating opportunities, access to vocational training programs.  
 
-### 2. Access to Communal Infrastructure  
-#### General  
+## 3.2 Access to Communal Infrastructure  
+
+### 3.2.0 General  
+
+
 - **Available**  
 - **Partially available**  
 - **Not available**  
 
 _Example Indicators:_ Coverage of communal infrastructure, functionality of key facilities, community access to shared spaces.  
 
-#### Roads  
+### 3.2.1 Roads  
 - **Available**  
 - **Partially available**  
 - **Not available**  
 
 _Example Indicators:_ Percentage of roads in good condition, accessibility for vehicles and pedestrians, presence of transportation disruptions.  
 
-#### Disaster Risk Reduction (DRR) Infrastructure  
+### 3.2.2 Disaster Risk Reduction (DRR) Infrastructure  
 - **Available**  
 - **Partially available**  
 - **Not available**  
 
 _Example Indicators:_ Availability of flood barriers, presence of emergency shelters, functionality of early warning systems.  
 
-#### Public Spaces  
+### 3.2.3 Public Spaces  
 - **Available**  
 - **Partially available**  
 - **Not available**  
 
 _Example Indicators:_ Number of public spaces per 10,000 people, accessibility of parks and recreational areas, security within communal spaces.  
 
-#### Electricity and Lighting  
+### 3.2.4 Electricity and Lighting  
 - **Available**  
 - **Partially available**  
 - **Not available**  
 
 _Example Indicators:_ Percentage of households connected to the electricity grid, availability of street lighting, presence of alternative energy sources.  
 
-#### Waste Management  
+### 3.2.5 Waste Management  
 - **Available**  
 - **Partially available**  
 - **Not available**  
 
 _Example Indicators:_ Frequency of waste collection services, existence of waste disposal sites, presence of recycling initiatives.  
 
-### 3. Hazard and Risks  
-#### General  
+## 3.3 Hazard and Risks  
+
+### 3.3.0 General  
+
 - **Safe**  
 - **Some risk**  
 - **Likely but not current**  
@@ -107,7 +137,8 @@ _Example Indicators:_ Frequency of waste collection services, existence of waste
 
 _Example Indicators:_ Historical occurrence of hazards, effectiveness of risk mitigation strategies, community preparedness levels.  
 
-#### Likelihood of General Conflict-Related Hazards  
+### 3.3.1 Likelihood of General Conflict-Related Hazards  
+
 - **Safe**  
 - **Some risk**  
 - **Likely but not current**  
@@ -115,7 +146,7 @@ _Example Indicators:_ Historical occurrence of hazards, effectiveness of risk mi
 
 _Example Indicators:_ Number of reported conflict incidents, presence of armed groups, stability of governance structures.  
 
-#### Likelihood of General Natural or Environmental Hazards  
+### 3.3.2 Likelihood of General Natural or Environmental Hazards  
 - **Safe**  
 - **Some risk**  
 - **Likely but not current**  
@@ -123,7 +154,7 @@ _Example Indicators:_ Number of reported conflict incidents, presence of armed g
 
 _Example Indicators:_ Frequency of natural disasters, exposure to climate-related risks, existence of environmental protection policies.  
 
-#### Likelihood of Collapse of HLP (Housing, Land, and Property) Rights  
+### 3.3.3 Likelihood of Collapse of HLP (Housing, Land, and Property) Rights  
 - **Safe**  
 - **Some risk**  
 - **Likely but not current**  

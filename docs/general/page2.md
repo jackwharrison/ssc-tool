@@ -1,20 +1,42 @@
-# **Pillar 1:** People have a dwelling
+# **Pillar 1 Themes** - Definitions, and example indicators and interventions
 
 ![image](https://github.com/user-attachments/assets/ada562ae-1ef4-4d37-b871-4c1743bed40c)
 
 Each pillar is structured into themes and sub-themes, with each theme further categorized to represent varying levels of severity.
 
-## Pillar 1 Themes
 
-#### **Physical Safety:** Level of safety, and security provided by the shelter (defects, issues, damage, location / environment)
-- **Safe**
-- **Unsafe:** Risky (can affect goods/property or can affect mental/physical health)
-- **Unsafe:** Dangerous (does not provide physical protection, or can pose physical threats)
-- **Unsafe:** Life threatening
 
-_Example Indicators:_ Building typology, building damage, etc
+## 1.1 Physical Safety
+_Level of safety, and security provided by the shelter (defects, issues, damage, location / environment)_
 
-#### **Overcrowding and Privacy:** Level of covered living and facilities space and privacy provided by the shelter (overcrowding, partitions)
+![image](https://github.com/user-attachments/assets/1f18c17f-d04a-44a4-8729-043f655fc86c)
+
+### Categories & Default Scores
+
+| Category                      | Score |
+|--------------------------------|-------|
+| Safe                           | 0     |
+| Unsafe: Risky (can affect goods/property or can affect mental/physical health) | 0.5   |
+| Unsafe: Dangerous (does not provide physical protection, or can pose physical threats) | 1     |
+| Unsafe: Life Threatening       | 5     |
+
+
+### Example Indicators:
+- Percentage of shelters with broken or missing doors and windows
+- Percentage of shelters with visible cracks in load-bearing walls
+- Percentage of shelters with leaning or partially collapsed walls
+- Roof Material Type
+- Repair Feasibility
+
+### Potential Humanitarian Interventions:
+- Distribution of Shelter Repair Kits
+- Upgrading Temporary Shelters with Semi-Permanent Materials (e.g., stabilized earth bricks, bamboo with mud plaster, CGI roofing).
+- Reconstruction of Disaster-Resilient Homes
+
+
+## 1.2 Overcrowding and Privacy 
+_Level of covered living and facilities space and privacy provided by the shelter (overcrowding, partitions)_
+
 - Sufficient space and privacy
 - No privacy
 - No privacy AND overcrowded (> 3 people per room or < 3.5m2 per person)

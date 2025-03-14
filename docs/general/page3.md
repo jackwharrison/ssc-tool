@@ -10,7 +10,7 @@ Each pillar is structured into themes and sub-themes, with each theme further ca
 ## 2.1 Clothing  
 _People have sufficient and appropriate quality clothing_
 
-![image](https://github.com/user-attachments/assets/e3d733ce-7932-46a6-8673-fe19d3d2e5ab)
+![image](https://github.com/user-attachments/assets/7f496000-0c6d-400d-88c4-f7303dd57bc3)
 
 ### Categories & Default Scores
 
@@ -18,38 +18,79 @@ _People have sufficient and appropriate quality clothing_
 - **Partially appropriate to climate** — Score: **0**  
 - **Not appropriate to climate** — Score: **0**  
 
-_Example Indicators:_ Availability of seasonal clothing, percentage of population with adequate clothing, distribution of clothing materials.  
+### Example Indicators:
+- Percentage of individuals with seasonally appropriate clothing (e.g., warm layers for cold climates, breathable fabrics for hot climates)
+- Percentage of clothing items that are in good condition (not torn, excessively worn, or unsuitable for use)
+- Percentage of children under 5 with adequate cold-weather protection (e.g., coats, gloves, hats in winter conditions)
 
-### 2. Energy  
-#### People have access to sufficient, safe, and affordable energy supply to maintain thermal comfort  
-- **Available**  
-- **Partially available**  
-- **Not available**  
+### Potential Humanitarian Interventions:
+- Targeted Clothing Distributions
+- Weather-Specific Clothing Packages
+- Clothing Vouchers
 
-_Example Indicators:_ Household access to heating or cooling systems, availability of fuel or electricity, indoor temperature regulation.  
+## 2.2 Energy  
 
-#### People have access to sufficient, safe, and affordable energy supply to provide lighting  
-- **Available**  
-- **Partially available**  
-- **Not available**  
+![image](https://github.com/user-attachments/assets/4df7451b-4771-4e7d-8971-a4808f712158)
 
-_Example Indicators:_ Access to electrical grid, use of solar lamps or alternative lighting sources, hours of daily electricity access.  
+### 2.2.1 Thermal Comfort
+_People have access to sufficient, safe, and affordable energy supply to maintain thermal comfort_
 
-#### People have access to sufficient, safe, and affordable energy supply to prepare food  
-- **Available**  
-- **Partially available**  
-- **Not available**  
+#### Categories & Default Scores
+- **Available** — Score: **0**  
+- **Partially available** — Score: **1**  
+- **Not available** — Score: **2**  
 
-_Example Indicators:_ Availability of cooking fuel (firewood, gas, electricity), percentage of households with functioning cooking stoves, reliance on unsafe cooking methods.  
+#### Example Indicators:
+- Household access to heating or cooling systems
+- Indoor temperature regulation.  
 
-#### People have access to sufficient, safe, and affordable energy supply to provide communication and support livelihood  
-- **Available**  
-- **Partially available**  
-- **Not available**  
 
-_Example Indicators:_ Access to mobile phones, internet coverage, percentage of households with charging facilities.  
+### 2.2.2 Lighting
+_People have access to sufficient, safe, and affordable energy supply to provide lighting_  
 
-### 3. Cooking  
+#### Categories & Default Scores
+- **Available** — Score: **0**  
+- **Partially available** — Score: **0.5**  
+- **Not available** — Score: **1**  
+
+#### Example Indicators:
+- Use of solar lamps or alternative lighting sources
+- Availability of electricity for lighting during the dark hours
+
+### 2.2.3 Cooking Fuel
+_People have access to sufficient, safe, and affordable energy supply to prepare food_
+
+#### Categories & Default Scores
+- **Available** — Score: **0**  
+- **Partially available** — Score: **1**  
+- **Not available** — Score: **2** 
+
+#### Example Indicators:
+- Availability of cooking fuel (firewood, gas, electricity)
+- Percentage of households with functioning cooking stoves
+- Reliance on unsafe cooking methods  
+
+### 2.2.4 Communications and Livelihoods
+_People have access to sufficient, safe, and affordable energy supply to provide communication and support livelihood_
+
+#### Categories & Default Scores
+- **Available** — Score: **0**  
+- **Partially available** — Score: **0.5**  
+- **Not available** — Score: **1**  
+ 
+#### Example Indicators:
+- Access to mobile phones
+- Internet coverage
+- Percentage of households with charging facilities 
+
+### Potential Humanitarian Interventions:
+- Distribution of energy-efficient heating and cooling solutions
+- Provision of solar lanterns and solar home systems
+- Introduction of fuel-efficient stoves and alternative fuel programs
+- Installation of community-based charging stations and solar-powered internet hubs
+
+
+## 2.3 Cooking  
 #### People have sufficient and appropriate items to store food and water  
 - **Available**  
 - **Partially available**  

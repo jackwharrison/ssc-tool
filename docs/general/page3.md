@@ -91,21 +91,35 @@ _People have access to sufficient, safe, and affordable energy supply to provide
 
 
 ## 2.3 Cooking  
-#### People have sufficient and appropriate items to store food and water  
-- **Available**  
-- **Partially available**  
-- **Not available**  
 
-_Example Indicators:_ Availability of food storage containers, percentage of households with access to clean water storage, use of secure storage solutions.  
+![image](https://github.com/user-attachments/assets/2d7b9543-373b-40a7-8da7-af21463c8495)
 
-#### People have sufficient and appropriate items to prepare and eat food  
-- **Available**  
-- **Partially available**  
-- **Not available**  
+### 2.3.1 Food Storage
+_People have sufficient and appropriate items to store food and water_
 
-_Example Indicators:_ Access to cooking utensils, presence of communal or private kitchens, availability of eating utensils.  
+#### Categories & Default Scores  
+- **Available** — Score: **0**  
+- **Partially available** — Score: **0.5**  
+- **Not available** — Score: **1**  
 
-### 4. Sleeping  
+#### Example Indicators:
+- Availability of food storage containers
+- Percentage of households with access to clean water storage
+
+ ### 2.3.2 Cooking Items
+_People have sufficient and appropriate items to prepare and eat food_
+
+#### Categories & Default Scores
+- **Available** — Score: **0**  
+- **Partially available** — Score: **1**  
+- **Not available** — Score: **2** 
+
+#### Example Indicators:
+- Access to cooking utensils
+- Presence of communal or private kitchens
+- Availability of eating utensils
+
+## 2.4 Sleeping  
 #### People have sufficient and appropriate items for safe, healthy, and private sleeping  
 - **Available**  
 - **Partially available**  

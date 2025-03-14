@@ -22,8 +22,6 @@ _Level of safety, and security provided by the shelter (defects, issues, damage,
 - Percentage of shelters with broken or missing doors and windows
 - Percentage of shelters with visible cracks in load-bearing walls
 - Percentage of shelters with leaning or partially collapsed walls
-- Roof Material Type
-- Repair Feasibility
 
 ### Potential Humanitarian Interventions:
 - Distribution of Shelter Repair Kits

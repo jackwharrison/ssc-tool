@@ -13,13 +13,10 @@ _Level of safety, and security provided by the shelter (defects, issues, damage,
 
 ### Categories & Default Scores
 
-| Category | Score |
-|:---------|:------|
-| Safe | 0 |
-| Unsafe: Risky <br> _(affects property or mental/physical health)_ | 0.5 |
-| Unsafe: Dangerous <br> _(no physical protection, potential threats)_ | 1 |
-| Unsafe: Life Threatening | 5 |
-
+- **Safe** — Score: **0**
+- **Unsafe: Risky** _(affects goods/property or mental/physical health)_ — Score: **0.5**
+- **Unsafe: Dangerous** _(no physical protection, potential threats)_ — Score: **1**
+- **Unsafe: Life Threatening** — Score: **5**
 
 ### Example Indicators:
 - Percentage of shelters with broken or missing doors and windows

@@ -36,9 +36,9 @@ _Level of covered living and facilities space and privacy provided by the shelte
 
 ### Categories & Default Scores
 
-- Sufficient space and privacy — Score: **0**
-- No privacy — Score: **0.5**
-- No privacy AND overcrowded (> 3 people per room or < 3.5m2 per person) — Score: **1**
+- **Sufficient space and privacy** — Score: **0**
+- **No privacy** — Score: **0.5**
+- **No privacy AND overcrowded** (> 3 people per room or < 3.5m2 per person) — Score: **1**
 
 ### Example Indicators:
 - Average covered living space per person (m²)
@@ -54,12 +54,24 @@ _Level of covered living and facilities space and privacy provided by the shelte
 ## 1.3 Habitability and Health
 _Level of thermal comfort and a healthy environment provided by the shelter_  
 
+![image](https://github.com/user-attachments/assets/25626cea-4e96-4d84-8ed6-2b92a238f56f)
 
-- Provides protection from the elements, thermal comfort, and a healthy environment.  
-- Lack of ventilation, and/or natural light, and/or exposure to vectors.  
-- Does not protect against the weather OR provide thermal comfort.  
+### Categories & Default Scores
 
- _Example Indicators:_ Ventilation, insulation, indoor air quality, presence of mold, exposure to disease vectors.  
+- **Provides protection from the elements, thermal comfort, and a healthy environment** — Score: **0**
+- **Lack of ventilation, and/or natural light, and/or exposure to vectors** — Score: **0.5**
+- **Does not protect against the weather OR provide thermal comfort** — Score: **1** 
+
+### Example Indicators:
+- Percentage of shelters that protect against wind, rain, and humidity
+- Percentage of shelters with adequate ventilation
+- Percentage of shelters with standing water or damp areas
+
+### Potential Humanitarian Interventions:
+- Improve ventilation, lighting, and drainage in shelters.  
+- Distribute mosquito nets and pest control supplies.  
+- Provide insulation materials to regulate indoor temperature.  
+
 
 #### **Security of Tenure:** Level of security of tenure.  
 - Good enough security of tenure.  

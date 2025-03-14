@@ -150,13 +150,24 @@ _People have sufficient and appropriate items for safe, healthy, and private sle
 - Construct privacy partitions in shared shelters to improve dignity and safety.  
 - Support local markets to provide affordable and accessible sleeping materials.  
 
-### 5. Cleanliness  
-#### People have sufficient and appropriate items to maintain the shelter clean  
-- **Available**  
-- **Partially available**  
-- **Not available**  
+## 2.5 Cleanliness  
 
-_Example Indicators:_ Access to cleaning supplies, presence of drainage and sanitation facilities, frequency of cleaning activities.  
+
+### 2.5.1 Cleaning Items
+_People have sufficient and appropriate items to maintain cleanliness in the shelter_ 
+
+#### Categories & Default Scores  
+
+- **Available** — Score: **0**  
+- **Partially available** — Score: **0.5**  
+- **Not available** — Score: **1**  
+
+#### Example Indicators:
+- Access to cleaning supplies
+- Presence of drainage and sanitation facilities
+- Frequency of cleaning activities
+
+### 2.5.2 Waste Storage
 
 #### People have sufficient and appropriate items to adequately store waste  
 - **Available**  
@@ -165,28 +176,7 @@ _Example Indicators:_ Access to cleaning supplies, presence of drainage and sani
 
 _Example Indicators:_ Availability of waste bins, presence of waste collection services, frequency of waste disposal.  
 
-## Example Interventions by Theme  
 
-### 1. Clothing  
-- Distribute climate-appropriate clothing, including winter kits or lightweight garments for hot climates.  
-- Provide sewing kits and materials for communities to repair or make their own clothing.  
-- Partner with local organizations to establish clothing banks or second-hand clothing distribution points.  
-
-### 2. Energy  
-- Install solar-powered lighting in shelters and communal spaces.  
-- Distribute fuel-efficient stoves to reduce firewood dependency and health risks.  
-- Provide vouchers or subsidies for safe and affordable fuel sources.  
-- Establish community charging stations for phones and essential devices.  
-
-### 3. Cooking  
-- Provide durable and culturally appropriate cooking utensils and storage containers.  
-- Construct communal or household-level kitchens with proper ventilation.  
-- Introduce food preservation techniques and low-tech cooling/storage solutions.  
-
-### 4. Sleeping  
-- Distribute mattresses, sleeping mats, and bedding materials.  
-- Construct privacy partitions in shared shelters to improve dignity and safety.  
-- Support local markets to provide affordable and accessible sleeping materials.  
 
 ### 5. Cleanliness  
 - Distribute hygiene and cleaning kits, including soap, detergent, and sanitation tools.  

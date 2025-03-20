@@ -13,21 +13,28 @@ _Level of safety, and security provided by the shelter (defects, issues, damage,
 
 ### Categories & Default Scores
 
-- **Safe** — Score: **0**
-- **Unsafe: Risky** _(affects goods/property or mental/physical health)_ — Score: **0.5**
-- **Unsafe: Dangerous** _(no physical protection, potential threats)_ — Score: **1**
-- **Unsafe: Life Threatening** — Score: **5**
+| **Category**                  | **Description**                                      | **Score** |
+|--------------------------------|------------------------------------------------------|----------|
+| **Safe**                       | No risks present                                   | **0**    |
+| **Unsafe: Risky**              | Affects goods/property or mental/physical health   | **0.5**  |
+| **Unsafe: Dangerous**          | No physical protection, potential threats          | **1**    |
+| **Unsafe: Life Threatening**   | Severe risk to life                                | **5**    |
 
-### Example Indicators:
-- Percentage of shelters with broken or missing doors and windows
-- Percentage of shelters with visible cracks in load-bearing walls
-- Percentage of shelters with leaning or partially collapsed walls
+### Example Indicators
 
-### Potential Humanitarian Interventions:
-- Distribution of Shelter Repair Kits
-- Upgrading Temporary Shelters with Semi-Permanent Materials (e.g., stabilized earth bricks, bamboo with mud plaster, CGI roofing).
-- Reconstruction of Disaster-Resilient Homes
+| **Indicator** |
+|--------------|
+| Percentage of shelters with broken or missing doors/windows |
+| Percentage of shelters with visible cracks in load-bearing walls |
+| Percentage of shelters with leaning or partially collapsed walls |
 
+### Potential Humanitarian Interventions
+
+| **Intervention** |
+|------------------|
+| Distribution of Shelter Repair Kits |
+| Upgrading Temporary Shelters with Semi-Permanent Materials *(e.g., stabilized earth bricks, bamboo with mud plaster, CGI roofing)* |
+| Reconstruction of Disaster-Resilient Homes |
 
 ## **1.2 Overcrowding and Privacy** 
 _Level of covered living and facilities space and privacy provided by the shelter (overcrowding, partitions)_
